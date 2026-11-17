@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 7c5ce1eb0154f634aba720df58dd8062
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 82630156469965117
+    second: edited_attack_g3_grid_4_0
+  - first:
+      213: 4291519255984225967
+    second: edited_attack_g3_grid_4_1
+  - first:
+      213: 7553219025143023959
+    second: edited_attack_g3_grid_4_2
+  - first:
+      213: -5291896829857311788
+    second: edited_attack_g3_grid_4_3
+  - first:
+      213: -5968411075243231803
+    second: edited_attack_g3_grid_4_4
+  - first:
+      213: 8350944965349228855
+    second: edited_attack_g3_grid_4_5
+  - first:
+      213: -1436527680032343948
+    second: edited_attack_g3_grid_4_6
+  - first:
+      213: -3580499848907132297
+    second: edited_attack_g3_grid_4_7
+  - first:
+      213: 3769512401297075603
+    second: edited_attack_g3_grid_4_8
+  - first:
+      213: -7114131980496865243
+    second: edited_attack_g3_grid_4_9
+  - first:
+      213: 6238715325316456632
+    second: edited_attack_g3_grid_4_10
+  - first:
+      213: 5734829681407724533
+    second: edited_attack_g3_grid_4_11
+  - first:
+      213: -860012409974369874
+    second: edited_attack_g3_grid_4_12
+  - first:
+      213: 4292999489763479373
+    second: edited_attack_g3_grid_4_13
+  - first:
+      213: 3683693012896437847
+    second: edited_attack_g3_grid_4_14
+  - first:
+      213: 4299415563208852469
+    second: edited_attack_g3_grid_4_15
+  - first:
+      213: 3136638501633954978
+    second: edited_attack_g3_grid_4_16
+  - first:
+      213: -5849143812843196667
+    second: edited_attack_g3_grid_4_17
+  - first:
+      213: 5954018883541680154
+    second: edited_attack_g3_grid_4_18
+  - first:
+      213: -1953194195063858236
+    second: edited_attack_g3_grid_4_19
+  - first:
+      213: -6662938328864061020
+    second: edited_attack_g3_grid_4_20
+  - first:
+      213: 8158463716815660050
+    second: edited_attack_g3_grid_4_21
+  - first:
+      213: 5731742911945271686
+    second: edited_attack_g3_grid_4_22
+  - first:
+      213: -8312358913452875104
+    second: edited_attack_g3_grid_4_23
+  - first:
+      213: -9046514536325227159
+    second: edited_attack_g3_grid_4_24
+  - first:
+      213: -7048450448614096713
+    second: edited_attack_g3_grid_4_25
+  - first:
+      213: 4461321159178852933
+    second: edited_attack_g3_grid_4_26
+  - first:
+      213: -4167857129802339595
+    second: edited_attack_g3_grid_4_27
+  - first:
+      213: 801721482376843736
+    second: edited_attack_g3_grid_4_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 401
+        width: 485
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31902480bf852100800000000000000
+      internalID: 82630156469965117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 399
+        width: 461
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae30bf960a8e8b30800000000000000
+      internalID: 4291519255984225967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 915
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594f584fac62d860800000000000000
+      internalID: 7553219025143023959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_3
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 401
+        width: 537
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d654fed76f86b0800000000000000
+      internalID: -5291896829857311788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 873
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5be92cfb1fb2da0800000000000000
+      internalID: -5968411075243231803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 821
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314a76633484e370800000000000000
+      internalID: 8350944965349228855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 845
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f7a1afad601ce0800000000000000
+      internalID: -1436527680032343948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fc839b528f4ec0800000000000000
+      internalID: -3580499848907132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 571
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dedb7ae8fff4430800000000000000
+      internalID: 3769512401297075603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 559
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fc31f7a6854d90800000000000000
+      internalID: -7114131980496865243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 545
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e544c88e549650800000000000000
+      internalID: 6238715325316456632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_11
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 554
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8ca7f535369f40800000000000000
+      internalID: 5734829681407724533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 523
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1dc09054f9014f0800000000000000
+      internalID: -860012409974369874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 493
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f09486a4cc39b30800000000000000
+      internalID: 4292999489763479373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 477
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d747374b1f1330800000000000000
+      internalID: 3683693012896437847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 479
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f389daeca79aab30800000000000000
+      internalID: 4299415563208852469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 481
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a494be3914978b20800000000000000
+      internalID: 3136638501633954978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 456
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fae4b31baa3dea0800000000000000
+      internalID: -5849143812843196667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 423
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10487bf0ace0a250800000000000000
+      internalID: 5954018883541680154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 465
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb1dd16a3cd4e4e0800000000000000
+      internalID: -1953194195063858236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a909b344ec7883a0800000000000000
+      internalID: -6662938328864061020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 447
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e5b9668fa83170800000000000000
+      internalID: 8158463716815660050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 369
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6896c527fcd3b8f40800000000000000
+      internalID: 5731742911945271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 453
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2e616eb9194ac80800000000000000
+      internalID: -8312358913452875104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 389
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d5deea5f2547280800000000000000
+      internalID: -9046514536325227159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 431
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b00a6949afde2e90800000000000000
+      internalID: -7048450448614096713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1105
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1ac905fbc9ed30800000000000000
+      internalID: 4461321159178852933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_27
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 365
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6d8fc50cc826c0800000000000000
+      internalID: -4167857129802339595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_attack_g3_grid_4_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 23
+        width: 436
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d11fd5c079402b00800000000000000
+      internalID: 801721482376843736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_attack_g3_grid_4_0: 82630156469965117
+      edited_attack_g3_grid_4_1: 4291519255984225967
+      edited_attack_g3_grid_4_10: 6238715325316456632
+      edited_attack_g3_grid_4_11: 5734829681407724533
+      edited_attack_g3_grid_4_12: -860012409974369874
+      edited_attack_g3_grid_4_13: 4292999489763479373
+      edited_attack_g3_grid_4_14: 3683693012896437847
+      edited_attack_g3_grid_4_15: 4299415563208852469
+      edited_attack_g3_grid_4_16: 3136638501633954978
+      edited_attack_g3_grid_4_17: -5849143812843196667
+      edited_attack_g3_grid_4_18: 5954018883541680154
+      edited_attack_g3_grid_4_19: -1953194195063858236
+      edited_attack_g3_grid_4_2: 7553219025143023959
+      edited_attack_g3_grid_4_20: -6662938328864061020
+      edited_attack_g3_grid_4_21: 8158463716815660050
+      edited_attack_g3_grid_4_22: 5731742911945271686
+      edited_attack_g3_grid_4_23: -8312358913452875104
+      edited_attack_g3_grid_4_24: -9046514536325227159
+      edited_attack_g3_grid_4_25: -7048450448614096713
+      edited_attack_g3_grid_4_26: 4461321159178852933
+      edited_attack_g3_grid_4_27: -4167857129802339595
+      edited_attack_g3_grid_4_28: 801721482376843736
+      edited_attack_g3_grid_4_3: -5291896829857311788
+      edited_attack_g3_grid_4_4: -5968411075243231803
+      edited_attack_g3_grid_4_5: 8350944965349228855
+      edited_attack_g3_grid_4_6: -1436527680032343948
+      edited_attack_g3_grid_4_7: -3580499848907132297
+      edited_attack_g3_grid_4_8: 3769512401297075603
+      edited_attack_g3_grid_4_9: -7114131980496865243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

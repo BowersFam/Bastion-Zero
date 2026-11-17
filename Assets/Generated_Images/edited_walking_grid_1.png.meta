@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 3986acbd440c4ea498e2cfacd8016328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6229045639918288075
+    second: edited_walking_grid_1_0
+  - first:
+      213: -7790075133353012032
+    second: edited_walking_grid_1_1
+  - first:
+      213: -8307514575689201102
+    second: edited_walking_grid_1_2
+  - first:
+      213: 1449171269002551083
+    second: edited_walking_grid_1_3
+  - first:
+      213: -1247687479710918505
+    second: edited_walking_grid_1_4
+  - first:
+      213: 229482957215119085
+    second: edited_walking_grid_1_5
+  - first:
+      213: -5612486824229616169
+    second: edited_walking_grid_1_6
+  - first:
+      213: 6904020810804264934
+    second: edited_walking_grid_1_7
+  - first:
+      213: -4924958371088785521
+    second: edited_walking_grid_1_8
+  - first:
+      213: -6784439705925284988
+    second: edited_walking_grid_1_9
+  - first:
+      213: 9022020975160532060
+    second: edited_walking_grid_1_10
+  - first:
+      213: -8706998757676435618
+    second: edited_walking_grid_1_11
+  - first:
+      213: -4964812463483392732
+    second: edited_walking_grid_1_12
+  - first:
+      213: -6245093520113141359
+    second: edited_walking_grid_1_13
+  - first:
+      213: -1694849885590853747
+    second: edited_walking_grid_1_14
+  - first:
+      213: 3694525658403425382
+    second: edited_walking_grid_1_15
+  - first:
+      213: -6934750038894016217
+    second: edited_walking_grid_1_16
+  - first:
+      213: 9003532378046497251
+    second: edited_walking_grid_1_17
+  - first:
+      213: 4703938570131768542
+    second: edited_walking_grid_1_18
+  - first:
+      213: 784670861794093771
+    second: edited_walking_grid_1_19
+  - first:
+      213: -1554688181602932738
+    second: edited_walking_grid_1_20
+  - first:
+      213: 5010468685822334035
+    second: edited_walking_grid_1_21
+  - first:
+      213: -4478448814846053079
+    second: edited_walking_grid_1_22
+  - first:
+      213: 976535773058247556
+    second: edited_walking_grid_1_23
+  - first:
+      213: -8405702402226860893
+    second: edited_walking_grid_1_24
+  - first:
+      213: -7823485195806830735
+    second: edited_walking_grid_1_25
+  - first:
+      213: 1112677224509224900
+    second: edited_walking_grid_1_26
+  - first:
+      213: 7215591887624120474
+    second: edited_walking_grid_1_27
+  - first:
+      213: 6732091412488009851
+    second: edited_walking_grid_1_28
+  - first:
+      213: -8513078711372295503
+    second: edited_walking_grid_1_29
+  - first:
+      213: -1211416435540832576
+    second: edited_walking_grid_1_30
+  - first:
+      213: -7654962580439986960
+    second: edited_walking_grid_1_31
+  - first:
+      213: -1346259649867374405
+    second: edited_walking_grid_1_32
+  - first:
+      213: 2706645703352801189
+    second: edited_walking_grid_1_33
+  - first:
+      213: -501713739005768701
+    second: edited_walking_grid_1_34
+  - first:
+      213: 6610608017728327675
+    second: edited_walking_grid_1_35
+  - first:
+      213: 4393979796717622127
+    second: edited_walking_grid_1_36
+  - first:
+      213: 3742261044836230193
+    second: edited_walking_grid_1_37
+  - first:
+      213: 6326434175082884014
+    second: edited_walking_grid_1_38
+  - first:
+      213: -6853538671604962487
+    second: edited_walking_grid_1_39
+  - first:
+      213: -4951591238840165603
+    second: edited_walking_grid_1_40
+  - first:
+      213: 7008587783875854969
+    second: edited_walking_grid_1_41
+  - first:
+      213: 4412062195179885858
+    second: edited_walking_grid_1_42
+  - first:
+      213: 466407134986801845
+    second: edited_walking_grid_1_43
+  - first:
+      213: 255337826926055085
+    second: edited_walking_grid_1_44
+  - first:
+      213: -8137629826252976010
+    second: edited_walking_grid_1_45
+  - first:
+      213: -86368941787683407
+    second: edited_walking_grid_1_46
+  - first:
+      213: -7869744181028467322
+    second: edited_walking_grid_1_47
+  - first:
+      213: 1719899286723285661
+    second: edited_walking_grid_1_48
+  - first:
+      213: -5808456522858217900
+    second: edited_walking_grid_1_49
+  - first:
+      213: -7342710579734982506
+    second: edited_walking_grid_1_50
+  - first:
+      213: -1524550987642110511
+    second: edited_walking_grid_1_51
+  - first:
+      213: 7613110839942386196
+    second: edited_walking_grid_1_52
+  - first:
+      213: -6282017620108814576
+    second: edited_walking_grid_1_53
+  - first:
+      213: -2493510215102562
+    second: edited_walking_grid_1_54
+  - first:
+      213: 8254741502616783826
+    second: edited_walking_grid_1_55
+  - first:
+      213: 3008946605656014272
+    second: edited_walking_grid_1_56
+  - first:
+      213: 5720313529228617666
+    second: edited_walking_grid_1_57
+  - first:
+      213: -6069807588678220254
+    second: edited_walking_grid_1_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_walking_grid_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53389fe4efbfd89a0800000000000000
+      internalID: -6229045639918288075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 445
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d3e690f714e390800000000000000
+      internalID: -7790075133353012032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 165
+        width: 549
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4aad2287c5bc80800000000000000
+      internalID: -8307514575689201102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 855
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5993579d7c1410800000000000000
+      internalID: 1449171269002551083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 803
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d02509d25faee0800000000000000
+      internalID: -1247687479710918505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 821
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de630d2a8894f2300800000000000000
+      internalID: 229482957215119085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 819
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5cb3738f07c12b0800000000000000
+      internalID: -5612486824229616169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 767
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef74ed295200df50800000000000000
+      internalID: 6904020810804264934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 687
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f9aad747807abb0800000000000000
+      internalID: -4924958371088785521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 573
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b84407804d8d1a0800000000000000
+      internalID: -6784439705925284988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 587
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1194b648a43d70800000000000000
+      internalID: 9022020975160532060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 597
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57bde4f2c68a2780800000000000000
+      internalID: -8706998757676435618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_12
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 576
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de3a18e51791bb0800000000000000
+      internalID: -4964812463483392732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 589
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ff880888f459a0800000000000000
+      internalID: -6245093520113141359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 567
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87eebd320faa78e0800000000000000
+      internalID: -1694849885590853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 575
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc3ba0387954330800000000000000
+      internalID: 3694525658403425382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 577
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729889dd491d2cf90800000000000000
+      internalID: -6934750038894016217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 567
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1803dbef8f2fc70800000000000000
+      internalID: 9003532378046497251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 577
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed486fdf43fb74140800000000000000
+      internalID: 4703938570131768542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 575
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca26decdf5b3ea00800000000000000
+      internalID: 784670861794093771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 573
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef72f0ff553ac6ae0800000000000000
+      internalID: -1554688181602932738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 583
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35498a029b2c88540800000000000000
+      internalID: 5010468685822334035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 583
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f45ed78a59d1c0800000000000000
+      internalID: -4478448814846053079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 561
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b29979c1a5d8d00800000000000000
+      internalID: 976535773058247556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 559
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acce935332f85b80800000000000000
+      internalID: -8405702402226860893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 551
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f086e3aa56d6390800000000000000
+      internalID: -7823485195806830735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 545
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c73a8c5a06017f00800000000000000
+      internalID: 1112677224509224900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 543
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a60a879ee22460800000000000000
+      internalID: 7215591887624120474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_28
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 539
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b783ec4b8713d6d50800000000000000
+      internalID: 6732091412488009851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 503
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d6b724087bd980800000000000000
+      internalID: -8513078711372295503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 513
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cec4849b2f203fe0800000000000000
+      internalID: -1211416435540832576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 461
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc87ff371c14c590800000000000000
+      internalID: -7654962580439986960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 485
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a6323bff115de0800000000000000
+      internalID: -1346259649867374405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 19
+        width: 370
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a75e214defef8520800000000000000
+      internalID: 2706645703352801189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 479
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc0a7330e8909f0800000000000000
+      internalID: -501713739005768701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 463
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffcb06b7f89dbb50800000000000000
+      internalID: 6610608017728327675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 405
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d895485d8afc30800000000000000
+      internalID: 4393979796717622127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 391
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ee3ac79e2fe330800000000000000
+      internalID: 3742261044836230193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 353
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabe4b40d520cc750800000000000000
+      internalID: 6326434175082884014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_39
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 370
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b6598c3e653e0a0800000000000000
+      internalID: -6853538671604962487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 369
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bdeffb00a684bb0800000000000000
+      internalID: -4951591238840165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_41
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 375
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720013d471834160800000000000000
+      internalID: 7008587783875854969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 349
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22590aeb03bca3d30800000000000000
+      internalID: 4412062195179885858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_43
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 343
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2989171d2097600800000000000000
+      internalID: 466407134986801845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec5a796642b8300800000000000000
+      internalID: 255337826926055085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 309
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670519cb9c4511f80800000000000000
+      internalID: -8137629826252976010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b56e11b7e72dcef0800000000000000
+      internalID: -86368941787683407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 263
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc990fc5d09c290800000000000000
+      internalID: -7869744181028467322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_48
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 245
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92d692f94f4ed710800000000000000
+      internalID: 1719899286723285661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 245
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e3cb52197346fa0800000000000000
+      internalID: -5808456522858217900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 199
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d46e81a3791a90800000000000000
+      internalID: -7342710579734982506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddfe9344f4b7dae0800000000000000
+      internalID: -1524550987642110511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 205
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412117219f337a960800000000000000
+      internalID: 7613110839942386196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_53
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 205
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0175ba0124ac1d8a0800000000000000
+      internalID: -6282017620108814576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_54
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 167
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f82696a2427fff0800000000000000
+      internalID: -2493510215102562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_55
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 94
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbc52049abbe8270800000000000000
+      internalID: 8254741502616783826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 33
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd7e3aeefce1c920800000000000000
+      internalID: 3008946605656014272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 23
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c76889e8d2a26f40800000000000000
+      internalID: 5720313529228617666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_walking_grid_1_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 29
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2264dd54826b3cba0800000000000000
+      internalID: -6069807588678220254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_walking_grid_1_0: -6229045639918288075
+      edited_walking_grid_1_1: -7790075133353012032
+      edited_walking_grid_1_10: 9022020975160532060
+      edited_walking_grid_1_11: -8706998757676435618
+      edited_walking_grid_1_12: -4964812463483392732
+      edited_walking_grid_1_13: -6245093520113141359
+      edited_walking_grid_1_14: -1694849885590853747
+      edited_walking_grid_1_15: 3694525658403425382
+      edited_walking_grid_1_16: -6934750038894016217
+      edited_walking_grid_1_17: 9003532378046497251
+      edited_walking_grid_1_18: 4703938570131768542
+      edited_walking_grid_1_19: 784670861794093771
+      edited_walking_grid_1_2: -8307514575689201102
+      edited_walking_grid_1_20: -1554688181602932738
+      edited_walking_grid_1_21: 5010468685822334035
+      edited_walking_grid_1_22: -4478448814846053079
+      edited_walking_grid_1_23: 976535773058247556
+      edited_walking_grid_1_24: -8405702402226860893
+      edited_walking_grid_1_25: -7823485195806830735
+      edited_walking_grid_1_26: 1112677224509224900
+      edited_walking_grid_1_27: 7215591887624120474
+      edited_walking_grid_1_28: 6732091412488009851
+      edited_walking_grid_1_29: -8513078711372295503
+      edited_walking_grid_1_3: 1449171269002551083
+      edited_walking_grid_1_30: -1211416435540832576
+      edited_walking_grid_1_31: -7654962580439986960
+      edited_walking_grid_1_32: -1346259649867374405
+      edited_walking_grid_1_33: 2706645703352801189
+      edited_walking_grid_1_34: -501713739005768701
+      edited_walking_grid_1_35: 6610608017728327675
+      edited_walking_grid_1_36: 4393979796717622127
+      edited_walking_grid_1_37: 3742261044836230193
+      edited_walking_grid_1_38: 6326434175082884014
+      edited_walking_grid_1_39: -6853538671604962487
+      edited_walking_grid_1_4: -1247687479710918505
+      edited_walking_grid_1_40: -4951591238840165603
+      edited_walking_grid_1_41: 7008587783875854969
+      edited_walking_grid_1_42: 4412062195179885858
+      edited_walking_grid_1_43: 466407134986801845
+      edited_walking_grid_1_44: 255337826926055085
+      edited_walking_grid_1_45: -8137629826252976010
+      edited_walking_grid_1_46: -86368941787683407
+      edited_walking_grid_1_47: -7869744181028467322
+      edited_walking_grid_1_48: 1719899286723285661
+      edited_walking_grid_1_49: -5808456522858217900
+      edited_walking_grid_1_5: 229482957215119085
+      edited_walking_grid_1_50: -7342710579734982506
+      edited_walking_grid_1_51: -1524550987642110511
+      edited_walking_grid_1_52: 7613110839942386196
+      edited_walking_grid_1_53: -6282017620108814576
+      edited_walking_grid_1_54: -2493510215102562
+      edited_walking_grid_1_55: 8254741502616783826
+      edited_walking_grid_1_56: 3008946605656014272
+      edited_walking_grid_1_57: 5720313529228617666
+      edited_walking_grid_1_58: -6069807588678220254
+      edited_walking_grid_1_6: -5612486824229616169
+      edited_walking_grid_1_7: 6904020810804264934
+      edited_walking_grid_1_8: -4924958371088785521
+      edited_walking_grid_1_9: -6784439705925284988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

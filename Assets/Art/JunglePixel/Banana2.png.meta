@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b00d9b7ffde413548a2bbcf6e2e9eaf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6490038286986297858
+    second: Banana2_0
+  - first:
+      213: -7744126875955307401
+    second: Banana2_1
+  - first:
+      213: -5444919598480507995
+    second: Banana2_2
+  - first:
+      213: -1357882712826416961
+    second: Banana2_3
+  - first:
+      213: -1057729011383736244
+    second: Banana2_4
+  - first:
+      213: 3359279651924158874
+    second: Banana2_5
+  - first:
+      213: -8651299832865775841
+    second: Banana2_6
+  - first:
+      213: 8904287808472073231
+    second: Banana2_7
+  - first:
+      213: 7468863630162001526
+    second: Banana2_8
+  - first:
+      213: -6324865639213896563
+    second: Banana2_9
+  - first:
+      213: -5525294233902798290
+    second: Banana2_10
+  - first:
+      213: -521081913670594079
+    second: Banana2_11
+  - first:
+      213: 307225752187520946
+    second: Banana2_12
+  - first:
+      213: -19220976829248986
+    second: Banana2_13
+  - first:
+      213: 848900325371128629
+    second: Banana2_14
+  - first:
+      213: 4643102622712267878
+    second: Banana2_15
+  - first:
+      213: -3125905619002759864
+    second: Banana2_16
+  - first:
+      213: 3618922722076934602
+    second: Banana2_17
+  - first:
+      213: 7090579384213574695
+    second: Banana2_18
+  - first:
+      213: 3172543305870465295
+    second: Banana2_19
+  - first:
+      213: 7182128562378438967
+    second: Banana2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44.8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banana2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 155
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c082bf6f311a50800000000000000
+      internalID: 6490038286986297858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 250
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd02fe2a5578490800000000000000
+      internalID: -7744126875955307401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 250
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb10e3972cf64b0800000000000000
+      internalID: -5444919598480507995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 270
+        width: 76
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb07657fdd4d72de0800000000000000
+      internalID: -1357882712826416961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 175
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48e8d771113251f0800000000000000
+      internalID: -1057729011383736244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 223
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9923229b0f8e9e20800000000000000
+      internalID: 3359279651924158874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 187
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f93a873a860f780800000000000000
+      internalID: -8651299832865775841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 250
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04c1d9b592629b70800000000000000
+      internalID: 8904287808472073231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 215
+        width: 97
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef3af56ebb6a760800000000000000
+      internalID: 7468863630162001526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 250
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce49236309938a0800000000000000
+      internalID: -6324865639213896563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 230
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa5b42b263253b0800000000000000
+      internalID: -5525294233902798290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 250
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e198c4a2ceb4c8f0800000000000000
+      internalID: -521081913670594079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 250
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74df0a13c734400800000000000000
+      internalID: 307225752187520946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 250
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4bd79f96bbbff0800000000000000
+      internalID: -19220976829248986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 250
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba5772956e7cb00800000000000000
+      internalID: 848900325371128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 250
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66403723c3d9f6040800000000000000
+      internalID: 4643102622712267878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 250
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84561f9b66d8e94d0800000000000000
+      internalID: -3125905619002759864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 250
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14cf6ba0ff83230800000000000000
+      internalID: 3618922722076934602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 250
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72412c7e16cc66260800000000000000
+      internalID: 7090579384213574695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 250
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d3fce353270c20800000000000000
+      internalID: 3172543305870465295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana2_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 207
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739f0cbffdb0ca360800000000000000
+      internalID: 7182128562378438967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Banana2_0: 6490038286986297858
+      Banana2_1: -7744126875955307401
+      Banana2_10: -5525294233902798290
+      Banana2_11: -521081913670594079
+      Banana2_12: 307225752187520946
+      Banana2_13: -19220976829248986
+      Banana2_14: 848900325371128629
+      Banana2_15: 4643102622712267878
+      Banana2_16: -3125905619002759864
+      Banana2_17: 3618922722076934602
+      Banana2_18: 7090579384213574695
+      Banana2_19: 3172543305870465295
+      Banana2_2: -5444919598480507995
+      Banana2_20: 7182128562378438967
+      Banana2_3: -1357882712826416961
+      Banana2_4: -1057729011383736244
+      Banana2_5: 3359279651924158874
+      Banana2_6: -8651299832865775841
+      Banana2_7: 8904287808472073231
+      Banana2_8: 7468863630162001526
+      Banana2_9: -6324865639213896563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

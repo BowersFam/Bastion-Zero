@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: a5ad2c5de93cc8b4f81350a6897ebc8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3685211737832439525
+    second: running_grid_edited_0
+  - first:
+      213: 8335971224289634381
+    second: running_grid_edited_1
+  - first:
+      213: -2919746403688143641
+    second: running_grid_edited_2
+  - first:
+      213: -7613341538637956887
+    second: running_grid_edited_3
+  - first:
+      213: 2204573006022225510
+    second: running_grid_edited_4
+  - first:
+      213: -7928027424204886307
+    second: running_grid_edited_5
+  - first:
+      213: 7182101422709694832
+    second: running_grid_edited_6
+  - first:
+      213: -6707362886296629940
+    second: running_grid_edited_7
+  - first:
+      213: 8948510535659890615
+    second: running_grid_edited_8
+  - first:
+      213: -8996623310582750376
+    second: running_grid_edited_9
+  - first:
+      213: 4299858570968918957
+    second: running_grid_edited_10
+  - first:
+      213: 8114643916974818318
+    second: running_grid_edited_11
+  - first:
+      213: 3408464616044252770
+    second: running_grid_edited_12
+  - first:
+      213: -8663962322191099098
+    second: running_grid_edited_13
+  - first:
+      213: -5549962829884034422
+    second: running_grid_edited_14
+  - first:
+      213: 688712143166952730
+    second: running_grid_edited_15
+  - first:
+      213: -8322273414536326020
+    second: running_grid_edited_16
+  - first:
+      213: -2988543816483250082
+    second: running_grid_edited_17
+  - first:
+      213: -8215362790239198815
+    second: running_grid_edited_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_grid_edited_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 475
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee3a9bec80842330800000000000000
+      internalID: 3685211737832439525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 847
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4869a1a9a15fa370800000000000000
+      internalID: 8335971224289634381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 439
+        width: 499
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a1f58d1afa77d0800000000000000
+      internalID: -2919746403688143641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 812
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e832c3353af75690800000000000000
+      internalID: -7613341538637956887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 581
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eae59f777389e10800000000000000
+      internalID: 2204573006022225510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 577
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde66baef0df9f190800000000000000
+      internalID: -7928027424204886307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 559
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07160790133fba360800000000000000
+      internalID: 7182101422709694832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 549
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d86a6fdf8aae2a0800000000000000
+      internalID: -6707362886296629940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 529
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b729d2cbee7f2c70800000000000000
+      internalID: 8948510535659890615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 561
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85367b2e3c2952380800000000000000
+      internalID: -8996623310582750376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 539
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab6503b69a2cab30800000000000000
+      internalID: 4299858570968918957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 561
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04811636a10d9070800000000000000
+      internalID: 8114643916974818318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 85
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4ecc628c4d4f20800000000000000
+      internalID: 3408464616044252770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 255
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b5e6eeb2c63c780800000000000000
+      internalID: -8663962322191099098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 415
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f32016329af2b0800000000000000
+      internalID: -5549962829884034422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 289
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d6f59b0cce8900800000000000000
+      internalID: 688712143166952730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 384
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7492ea3c68518c80800000000000000
+      internalID: -8322273414536326020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 151
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5063de9b3f8686d0800000000000000
+      internalID: -2988543816483250082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_grid_edited_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 187
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a4d2b11b2dfd80800000000000000
+      internalID: -8215362790239198815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running_grid_edited_0: 3685211737832439525
+      running_grid_edited_1: 8335971224289634381
+      running_grid_edited_10: 4299858570968918957
+      running_grid_edited_11: 8114643916974818318
+      running_grid_edited_12: 3408464616044252770
+      running_grid_edited_13: -8663962322191099098
+      running_grid_edited_14: -5549962829884034422
+      running_grid_edited_15: 688712143166952730
+      running_grid_edited_16: -8322273414536326020
+      running_grid_edited_17: -2988543816483250082
+      running_grid_edited_18: -8215362790239198815
+      running_grid_edited_2: -2919746403688143641
+      running_grid_edited_3: -7613341538637956887
+      running_grid_edited_4: 2204573006022225510
+      running_grid_edited_5: -7928027424204886307
+      running_grid_edited_6: 7182101422709694832
+      running_grid_edited_7: -6707362886296629940
+      running_grid_edited_8: 8948510535659890615
+      running_grid_edited_9: -8996623310582750376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

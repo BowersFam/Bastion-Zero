@@ -1,0 +1,26 @@
+PROJECT RULES: 2D SIDE-SCROLLING PLATFORMER
+Full reference: 2d-platformer-reference.md. Read the matching section before building a feature, level or asset.
+
+1. Stack: Unity 6 (6000.x LTS), URP 17 with the 2D Renderer, Cinemachine 3 (namespace Unity.Cinemachine: CinemachineCamera, CinemachinePositionComposer), Input System 1. Use Unity 6 API names: Rigidbody2D.linearVelocity, bodyType, FindFirstObjectByType.
+
+2. Timing: Time.fixedDeltaTime = 1f/60f. Read input presses in Update with timestamps, and consume them in FixedUpdate. Write all tunables in seconds and units per second, and keep them in ScriptableObjects (PlayerStats, WeaponDefinition, EnemyDefinition).
+
+3. Player motor: a Kinematic Rigidbody2D moved with MovePosition, using casts with a 0.01–0.02 u skin. The player is grounded only when vy <= 0, and ground is ignored for 2 ticks after a jump. Every controller includes coyote time, a jump buffer and corner correction.
+
+4. Units and art scale: one project-wide PPU (currently 16), 1 tile = 1 unit, and a reference resolution of 320x180. Pixel art uses URP's built-in Pixel Perfect Camera, Point filter and Compression set to None. Character pivots are bottom-center and tile pivots are center (0.5, 0.5).
+
+5. Facing: flip the character root with localScale.x = +1 or -1. Pixel sprites stay at scale 1 and rotation 0.
+
+6. Combat timing: WeaponDefinition tick data drives hitboxes in FixedUpdate. Animation is for display, and Animation Events are for cosmetic sound and VFX only. Each attackId hits each target once. Light attacks keep run momentum, and heavy weapons root the player according to WeaponDefinition.rootsPlayer.
+
+7. Threat readability: every enemy attack telegraphs with a pose, a flash and a sound, held 0.3–1.2 s depending on damage. Enemy AI wakes 2–4 tiles outside the camera view and starts an attack only after 0.3–0.5 s on screen. Bosses use a deterministic cycle, or a weighted random with no immediate repeats, plus a punish window after each move.
+
+8. Level geometry: required jumps keep a 1-tile horizontal and 0.5-tile vertical safety margin. The level metrics come from section 5.6 of the reference and are tested in the MetricsGym scene. Every persistent object carries a SaveId, and every puzzle room has a reset lever or an always-open exit. The editor reachability validator passes after each layout change.
+
+9. Art readability: brightness and contrast run from highest to lowest in this order: player, then hazards, enemies, interactables, ground, background. Danger hues are reserved for danger. Pixel sprites use the master palette with 4–5 colors plus transparency per sprite.
+
+10. Generated art: every generated image goes through the pixel cleanup step in section 7.10 before it is used as a gameplay sprite. That means nearest-neighbor downscale, palette quantize, anti-aliasing removal and a transparent background.
+
+11. Facts: state values tagged [VERIFY] only as open questions for the designer. Cite [REC] values as recommended starting values. Name the reference pattern you are using, for example "Dead Cells concept graph."
+
+12. Workflow: treat the reference docs as read-only and propose edits to the designer. Create import presets, AssetPostprocessors and Cinemachine rigs on the designer's request. Confirm every task in Play mode with a clean console before reporting it done.

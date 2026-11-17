@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 9814e5c3a9f19fe4a84e13a30b502e51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7300696108140991385
+    second: edited_wings_glide_grid_1_0
+  - first:
+      213: -5448948404532059250
+    second: edited_wings_glide_grid_1_1
+  - first:
+      213: 5775065958916905282
+    second: edited_wings_glide_grid_1_2
+  - first:
+      213: -1200035910774946901
+    second: edited_wings_glide_grid_1_3
+  - first:
+      213: 3823353544809123207
+    second: edited_wings_glide_grid_1_4
+  - first:
+      213: -130006491116083151
+    second: edited_wings_glide_grid_1_5
+  - first:
+      213: 223932183353255320
+    second: edited_wings_glide_grid_1_6
+  - first:
+      213: 1259346801912706759
+    second: edited_wings_glide_grid_1_7
+  - first:
+      213: -1987010928310540779
+    second: edited_wings_glide_grid_1_8
+  - first:
+      213: 6577135194274590257
+    second: edited_wings_glide_grid_1_9
+  - first:
+      213: -5789809016162358297
+    second: edited_wings_glide_grid_1_10
+  - first:
+      213: -5285388746703731138
+    second: edited_wings_glide_grid_1_11
+  - first:
+      213: -7198463854668701321
+    second: edited_wings_glide_grid_1_12
+  - first:
+      213: -233622566837172911
+    second: edited_wings_glide_grid_1_13
+  - first:
+      213: 6594185684900308572
+    second: edited_wings_glide_grid_1_14
+  - first:
+      213: 2277938528637089876
+    second: edited_wings_glide_grid_1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ced250297beaa90800000000000000
+      internalID: -7300696108140991385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1131
+        width: 487
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836f6cbb427164b0800000000000000
+      internalID: -5448948404532059250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1139
+        width: 509
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24951bb54e7252050800000000000000
+      internalID: 5775065958916905282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1241
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba30c8c72bd985fe0800000000000000
+      internalID: -1200035910774946901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_4
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1198
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d0411cac74f0530800000000000000
+      internalID: 3823353544809123207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 749
+        width: 505
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e78ef8cf123ef0800000000000000
+      internalID: -130006491116083151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 832
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956c8262219b1300800000000000000
+      internalID: 223932183353255320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 839
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f7097e391a7110800000000000000
+      internalID: 1259346801912706759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 751
+        width: 495
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162b3d9618bc64e0800000000000000
+      internalID: -1987010928310540779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 767
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ee47eac9da64b50800000000000000
+      internalID: 6577135194274590257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 500
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe942206776afa0800000000000000
+      internalID: -5789809016162358297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 369
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3680e420f686a6b0800000000000000
+      internalID: -5285388746703731138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 471
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771abf5634be91c90800000000000000
+      internalID: -7198463854668701321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 495
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c724638102ccf0800000000000000
+      internalID: -233622566837172911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 11
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56e27361f0438b50800000000000000
+      internalID: 6594185684900308572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_glide_grid_1_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 13
+        width: 493
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f693d50ddc9f10800000000000000
+      internalID: 2277938528637089876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_wings_glide_grid_1_0: -7300696108140991385
+      edited_wings_glide_grid_1_1: -5448948404532059250
+      edited_wings_glide_grid_1_10: -5789809016162358297
+      edited_wings_glide_grid_1_11: -5285388746703731138
+      edited_wings_glide_grid_1_12: -7198463854668701321
+      edited_wings_glide_grid_1_13: -233622566837172911
+      edited_wings_glide_grid_1_14: 6594185684900308572
+      edited_wings_glide_grid_1_15: 2277938528637089876
+      edited_wings_glide_grid_1_2: 5775065958916905282
+      edited_wings_glide_grid_1_3: -1200035910774946901
+      edited_wings_glide_grid_1_4: 3823353544809123207
+      edited_wings_glide_grid_1_5: -130006491116083151
+      edited_wings_glide_grid_1_6: 223932183353255320
+      edited_wings_glide_grid_1_7: 1259346801912706759
+      edited_wings_glide_grid_1_8: -1987010928310540779
+      edited_wings_glide_grid_1_9: 6577135194274590257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

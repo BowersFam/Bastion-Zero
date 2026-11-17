@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 4096ce79aa8f3bb4b947c69a6472be90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3181309388447912224
+    second: nexus_3d-ansi256_0
+  - first:
+      213: 5617374097025459733
+    second: nexus_3d-ansi256_1
+  - first:
+      213: 1646176304276463721
+    second: nexus_3d-ansi256_2
+  - first:
+      213: 435448941081878922
+    second: nexus_3d-ansi256_3
+  - first:
+      213: -8949798897746271061
+    second: nexus_3d-ansi256_4
+  - first:
+      213: -7399317556784452757
+    second: nexus_3d-ansi256_5
+  - first:
+      213: -4647666892348683672
+    second: nexus_3d-ansi256_6
+  - first:
+      213: 8532345326274271477
+    second: nexus_3d-ansi256_7
+  - first:
+      213: -7756801268800800399
+    second: nexus_3d-ansi256_8
+  - first:
+      213: -1699252047998865747
+    second: nexus_3d-ansi256_9
+  - first:
+      213: -6176535378155137796
+    second: nexus_3d-ansi256_10
+  - first:
+      213: 2135842304516983766
+    second: nexus_3d-ansi256_11
+  - first:
+      213: -1705899159565639090
+    second: nexus_3d-ansi256_12
+  - first:
+      213: 2038403507797969763
+    second: nexus_3d-ansi256_13
+  - first:
+      213: -5092675027975614377
+    second: nexus_3d-ansi256_14
+  - first:
+      213: 9033943967363407214
+    second: nexus_3d-ansi256_15
+  - first:
+      213: -7612731938592491848
+    second: nexus_3d-ansi256_16
+  - first:
+      213: -6621916960342379088
+    second: nexus_3d-ansi256_17
+  - first:
+      213: 2561914154184374175
+    second: nexus_3d-ansi256_18
+  - first:
+      213: 7817846669650805464
+    second: nexus_3d-ansi256_19
+  - first:
+      213: 3169893187320130508
+    second: nexus_3d-ansi256_20
+  - first:
+      213: -2761876447955505160
+    second: nexus_3d-ansi256_21
+  - first:
+      213: 5799017058996331820
+    second: nexus_3d-ansi256_22
+  - first:
+      213: -2102858374684101247
+    second: nexus_3d-ansi256_23
+  - first:
+      213: -469111531921417070
+    second: nexus_3d-ansi256_24
+  - first:
+      213: 5233927765732097001
+    second: nexus_3d-ansi256_25
+  - first:
+      213: -7818545377023066123
+    second: nexus_3d-ansi256_26
+  - first:
+      213: -3551191618754002402
+    second: nexus_3d-ansi256_27
+  - first:
+      213: 152451713283418278
+    second: nexus_3d-ansi256_28
+  - first:
+      213: 4516032275399894286
+    second: nexus_3d-ansi256_29
+  - first:
+      213: 7220365973934643890
+    second: nexus_3d-ansi256_30
+  - first:
+      213: 2781051077494889911
+    second: nexus_3d-ansi256_31
+  - first:
+      213: 6516254244872871947
+    second: nexus_3d-ansi256_32
+  - first:
+      213: -1540418432748603048
+    second: nexus_3d-ansi256_33
+  - first:
+      213: -5066883050814284684
+    second: nexus_3d-ansi256_34
+  - first:
+      213: -8469864998539153395
+    second: nexus_3d-ansi256_35
+  - first:
+      213: 7149552784934523094
+    second: nexus_3d-ansi256_36
+  - first:
+      213: -8814110915720416429
+    second: nexus_3d-ansi256_37
+  - first:
+      213: -5894620740697210491
+    second: nexus_3d-ansi256_38
+  - first:
+      213: 4509398700199995604
+    second: nexus_3d-ansi256_39
+  - first:
+      213: 5907246709565556256
+    second: nexus_3d-ansi256_40
+  - first:
+      213: -8621325578638259353
+    second: nexus_3d-ansi256_41
+  - first:
+      213: 225517548506913844
+    second: nexus_3d-ansi256_42
+  - first:
+      213: 3795781615057108890
+    second: nexus_3d-ansi256_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0219d039808462c20800000000000000
+      internalID: 3181309388447912224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 642
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516eea7aafbe4fd40800000000000000
+      internalID: 5617374097025459733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 642
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960601e70a468d610800000000000000
+      internalID: 1646176304276463721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 642
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81610b31860b0600800000000000000
+      internalID: 435448941081878922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 579
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a6a0125debc380800000000000000
+      internalID: -8949798897746271061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 579
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2d87a2e7505990800000000000000
+      internalID: -7399317556784452757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 579
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8637f59b208fb0800000000000000
+      internalID: -4647666892348683672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 582
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8da813edaf86670800000000000000
+      internalID: 8532345326274271477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 517
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17934d3e75e4a5490800000000000000
+      internalID: -7756801268800800399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 515
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2c2fe34b0b68e0800000000000000
+      internalID: -1699252047998865747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 515
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf41e6a5cc9884aa0800000000000000
+      internalID: -6176535378155137796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 521
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db8cf0824904ad10800000000000000
+      internalID: 2135842304516983766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 451
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e37ba0cd6358e0800000000000000
+      internalID: -1705899159565639090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 451
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b453fb03dd94c10800000000000000
+      internalID: 2038403507797969763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 458
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d2015b0f2359b0800000000000000
+      internalID: -5092675027975614377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 464
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9a77ac240f5d70800000000000000
+      internalID: 9033943967363407214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67ce5c2a42a5690800000000000000
+      internalID: -7612731938592491848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 389
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b578a6eb993a14a0800000000000000
+      internalID: -6621916960342379088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 387
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f977431895fbd8320800000000000000
+      internalID: 2561914154184374175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c10510229e7c60800000000000000
+      internalID: 7817846669650805464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 329
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba52e1f09bdfb20800000000000000
+      internalID: 3169893187320130508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff281ee008dba9d0800000000000000
+      internalID: -2761876447955505160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 323
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2528e76a4f3a7050800000000000000
+      internalID: 5799017058996331820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 324
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185bffb137521d2e0800000000000000
+      internalID: -2102858374684101247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd8c31c816d79f0800000000000000
+      internalID: -469111531921417070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf3888295a2a840800000000000000
+      internalID: 5233927765732097001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff744e6762fe7390800000000000000
+      internalID: -7818545377023066123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 259
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c2daa902a7bec0800000000000000
+      internalID: -3551191618754002402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a868a7860e9d1200800000000000000
+      internalID: 152451713283418278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e8617d6b2cae30800000000000000
+      internalID: 4516032275399894286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 196
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba11b02994e33460800000000000000
+      internalID: 7220365973934643890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 196
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bddc486837489620800000000000000
+      internalID: 2781051077494889911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0067cb06b26e6a50800000000000000
+      internalID: 6516254244872871947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 130
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8593e8ec8955f9ae0800000000000000
+      internalID: -1540418432748603048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c54c5f5b0dea9b0800000000000000
+      internalID: -5066883050814284684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 130
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003f8ab8aef47a80800000000000000
+      internalID: -8469864998539153395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05de0c060583360800000000000000
+      internalID: 7149552784934523094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 68
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353779142dcfda580800000000000000
+      internalID: -8814110915720416429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c719daa9123ea0800000000000000
+      internalID: -5894620740697210491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 67
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8670cd93a949e30800000000000000
+      internalID: 4509398700199995604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026004c9591caf150800000000000000
+      internalID: 5907246709565556256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b07406016ea5880800000000000000
+      internalID: -8621325578638259353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c1f59f303312300800000000000000
+      internalID: 225517548506913844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexus_3d-ansi256_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fff6a94435da430800000000000000
+      internalID: 3795781615057108890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nexus_3d-ansi256_0: 3181309388447912224
+      nexus_3d-ansi256_1: 5617374097025459733
+      nexus_3d-ansi256_10: -6176535378155137796
+      nexus_3d-ansi256_11: 2135842304516983766
+      nexus_3d-ansi256_12: -1705899159565639090
+      nexus_3d-ansi256_13: 2038403507797969763
+      nexus_3d-ansi256_14: -5092675027975614377
+      nexus_3d-ansi256_15: 9033943967363407214
+      nexus_3d-ansi256_16: -7612731938592491848
+      nexus_3d-ansi256_17: -6621916960342379088
+      nexus_3d-ansi256_18: 2561914154184374175
+      nexus_3d-ansi256_19: 7817846669650805464
+      nexus_3d-ansi256_2: 1646176304276463721
+      nexus_3d-ansi256_20: 3169893187320130508
+      nexus_3d-ansi256_21: -2761876447955505160
+      nexus_3d-ansi256_22: 5799017058996331820
+      nexus_3d-ansi256_23: -2102858374684101247
+      nexus_3d-ansi256_24: -469111531921417070
+      nexus_3d-ansi256_25: 5233927765732097001
+      nexus_3d-ansi256_26: -7818545377023066123
+      nexus_3d-ansi256_27: -3551191618754002402
+      nexus_3d-ansi256_28: 152451713283418278
+      nexus_3d-ansi256_29: 4516032275399894286
+      nexus_3d-ansi256_3: 435448941081878922
+      nexus_3d-ansi256_30: 7220365973934643890
+      nexus_3d-ansi256_31: 2781051077494889911
+      nexus_3d-ansi256_32: 6516254244872871947
+      nexus_3d-ansi256_33: -1540418432748603048
+      nexus_3d-ansi256_34: -5066883050814284684
+      nexus_3d-ansi256_35: -8469864998539153395
+      nexus_3d-ansi256_36: 7149552784934523094
+      nexus_3d-ansi256_37: -8814110915720416429
+      nexus_3d-ansi256_38: -5894620740697210491
+      nexus_3d-ansi256_39: 4509398700199995604
+      nexus_3d-ansi256_4: -8949798897746271061
+      nexus_3d-ansi256_40: 5907246709565556256
+      nexus_3d-ansi256_41: -8621325578638259353
+      nexus_3d-ansi256_42: 225517548506913844
+      nexus_3d-ansi256_43: 3795781615057108890
+      nexus_3d-ansi256_5: -7399317556784452757
+      nexus_3d-ansi256_6: -4647666892348683672
+      nexus_3d-ansi256_7: 8532345326274271477
+      nexus_3d-ansi256_8: -7756801268800800399
+      nexus_3d-ansi256_9: -1699252047998865747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

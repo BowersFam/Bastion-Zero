@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: fbdfaa16f1a2b1d419f634d8b9003da2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5587693071298643126
+    second: Sigil_0
+  - first:
+      213: -6157627910700841607
+    second: Sigil_1
+  - first:
+      213: 8800631030115429895
+    second: Sigil_2
+  - first:
+      213: -7355557168019037163
+    second: Sigil_3
+  - first:
+      213: -1112463285920966113
+    second: Sigil_4
+  - first:
+      213: -428672900277791685
+    second: Sigil_5
+  - first:
+      213: -2954358411782198204
+    second: Sigil_6
+  - first:
+      213: 8687102969052034859
+    second: Sigil_7
+  - first:
+      213: -907305128805258148
+    second: Sigil_8
+  - first:
+      213: -9103381830777790593
+    second: Sigil_9
+  - first:
+      213: -5076798585994112407
+    second: Sigil_10
+  - first:
+      213: 3025559425859238216
+    second: Sigil_11
+  - first:
+      213: -2894173639021058420
+    second: Sigil_12
+  - first:
+      213: 3777452447083165818
+    second: Sigil_13
+  - first:
+      213: -1097967621589157375
+    second: Sigil_14
+  - first:
+      213: 8862786398765692632
+    second: Sigil_15
+  - first:
+      213: 1127762985010131215
+    second: Sigil_16
+  - first:
+      213: 7317323468930003510
+    second: Sigil_17
+  - first:
+      213: -5625733003046418244
+    second: Sigil_18
+  - first:
+      213: 2988188079040296125
+    second: Sigil_19
+  - first:
+      213: 6251862861791828763
+    second: Sigil_20
+  - first:
+      213: 9170807036107559990
+    second: Sigil_21
+  - first:
+      213: -7646151963203507161
+    second: Sigil_22
+  - first:
+      213: -5258222688324369907
+    second: Sigil_23
+  - first:
+      213: 8102160410451913028
+    second: Sigil_24
+  - first:
+      213: 860468061903499150
+    second: Sigil_25
+  - first:
+      213: -6696398804414924836
+    second: Sigil_26
+  - first:
+      213: -2935009681788293236
+    second: Sigil_27
+  - first:
+      213: -3557445560293172662
+    second: Sigil_28
+  - first:
+      213: -3278563520283236818
+    second: Sigil_29
+  - first:
+      213: -7336323071503180911
+    second: Sigil_30
+  - first:
+      213: -4758995310446750328
+    second: Sigil_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sigil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1007
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b355ba1c68472b0800000000000000
+      internalID: -5587693071298643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1361
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97545ab2a06bb8aa0800000000000000
+      internalID: -6157627910700841607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1056
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e6f4d4b4f122a70800000000000000
+      internalID: 8800631030115429895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1067
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514a5232abfcbe990800000000000000
+      internalID: -7355557168019037163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 66
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5409198cbf80f0800000000000000
+      internalID: -1112463285920966113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 944
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b341b16b44c0d0af0800000000000000
+      internalID: -428672900277791685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce8866da20007d0800000000000000
+      internalID: -2954358411782198204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_7
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 951
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277695cf1ace8870800000000000000
+      internalID: 8687102969052034859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 745
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2caedaca9863f0800000000000000
+      internalID: -907305128805258148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 805
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9eb9e47a4aa180800000000000000
+      internalID: -9103381830777790593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 662
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9629d9585969b89b0800000000000000
+      internalID: -5076798585994112407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_11
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 727
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849bc298442fcf920800000000000000
+      internalID: 3025559425859238216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 687
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a9d7c864d5d7d0800000000000000
+      internalID: -2894173639021058420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 630
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787250acf43c6430800000000000000
+      internalID: 3777452447083165818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 668
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a3c44f34c33c0f0800000000000000
+      internalID: -1097967621589157375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 611
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b79ac541fefa70800000000000000
+      internalID: 8862786398765692632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01fc50b57e96af00800000000000000
+      internalID: 1127762985010131215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_17
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 479
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b3381dea5c8560800000000000000
+      internalID: 7317323468930003510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 384
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb80a30e3a16de1b0800000000000000
+      internalID: -5625733003046418244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_19
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 388
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f04dc93d287920800000000000000
+      internalID: 2988188079040296125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_20
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 354
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1f85262413c650800000000000000
+      internalID: 6251862861791828763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63418da0960454f70800000000000000
+      internalID: 9170807036107559990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_22
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 334
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c699eec4963e590800000000000000
+      internalID: -7646151963203507161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_23
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 336
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c680035a0707b0800000000000000
+      internalID: -5258222688324369907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_24
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 312
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449283a57f7a07070800000000000000
+      internalID: 8102160410451913028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_25
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 328
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa352b42ff0fb00800000000000000
+      internalID: 860468061903499150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_26
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd77f7434cc9113a0800000000000000
+      internalID: -6696398804414924836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_27
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 257
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f2da8ae30c447d0800000000000000
+      internalID: -2935009681788293236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5fee6c1a61aec0800000000000000
+      internalID: -3557445560293172662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_29
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 84
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a6ff49d33082d0800000000000000
+      internalID: -3278563520283236818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_30
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 79
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bdc853905203a90800000000000000
+      internalID: -7336323071503180911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigil_31
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8855219baf6a4fdb0800000000000000
+      internalID: -4758995310446750328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sigil_0: -5587693071298643126
+      Sigil_1: -6157627910700841607
+      Sigil_10: -5076798585994112407
+      Sigil_11: 3025559425859238216
+      Sigil_12: -2894173639021058420
+      Sigil_13: 3777452447083165818
+      Sigil_14: -1097967621589157375
+      Sigil_15: 8862786398765692632
+      Sigil_16: 1127762985010131215
+      Sigil_17: 7317323468930003510
+      Sigil_18: -5625733003046418244
+      Sigil_19: 2988188079040296125
+      Sigil_2: 8800631030115429895
+      Sigil_20: 6251862861791828763
+      Sigil_21: 9170807036107559990
+      Sigil_22: -7646151963203507161
+      Sigil_23: -5258222688324369907
+      Sigil_24: 8102160410451913028
+      Sigil_25: 860468061903499150
+      Sigil_26: -6696398804414924836
+      Sigil_27: -2935009681788293236
+      Sigil_28: -3557445560293172662
+      Sigil_29: -3278563520283236818
+      Sigil_3: -7355557168019037163
+      Sigil_30: -7336323071503180911
+      Sigil_31: -4758995310446750328
+      Sigil_4: -1112463285920966113
+      Sigil_5: -428672900277791685
+      Sigil_6: -2954358411782198204
+      Sigil_7: 8687102969052034859
+      Sigil_8: -907305128805258148
+      Sigil_9: -9103381830777790593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

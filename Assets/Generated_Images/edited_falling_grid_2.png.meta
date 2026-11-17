@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: f63f9cb8327791244ba8a4fbfd21374d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3812984774456875703
+    second: edited_falling_grid_2_0
+  - first:
+      213: 3553561581399120041
+    second: edited_falling_grid_2_1
+  - first:
+      213: 8352838504949708474
+    second: edited_falling_grid_2_2
+  - first:
+      213: -1311851191193204490
+    second: edited_falling_grid_2_3
+  - first:
+      213: 7446741188817238943
+    second: edited_falling_grid_2_4
+  - first:
+      213: -8268699285337632302
+    second: edited_falling_grid_2_5
+  - first:
+      213: 6470129335653755540
+    second: edited_falling_grid_2_6
+  - first:
+      213: 123043361392566573
+    second: edited_falling_grid_2_7
+  - first:
+      213: 2675903252330141659
+    second: edited_falling_grid_2_8
+  - first:
+      213: -6176227548290406414
+    second: edited_falling_grid_2_9
+  - first:
+      213: -6274950618728609325
+    second: edited_falling_grid_2_10
+  - first:
+      213: 7644374811177768216
+    second: edited_falling_grid_2_11
+  - first:
+      213: -7633838624438418881
+    second: edited_falling_grid_2_12
+  - first:
+      213: -1780444609880847633
+    second: edited_falling_grid_2_13
+  - first:
+      213: -4864037432238956811
+    second: edited_falling_grid_2_14
+  - first:
+      213: 8066677846450145043
+    second: edited_falling_grid_2_15
+  - first:
+      213: -7988029761600840260
+    second: edited_falling_grid_2_16
+  - first:
+      213: -3879031354693794292
+    second: edited_falling_grid_2_17
+  - first:
+      213: 5398705032329095566
+    second: edited_falling_grid_2_18
+  - first:
+      213: 5890031863149756336
+    second: edited_falling_grid_2_19
+  - first:
+      213: 1139919958255907655
+    second: edited_falling_grid_2_20
+  - first:
+      213: -1973274948985613396
+    second: edited_falling_grid_2_21
+  - first:
+      213: -8362502769825759805
+    second: edited_falling_grid_2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_falling_grid_2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 845
+        width: 23
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba997743717ae430800000000000000
+      internalID: 3812984774456875703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 918
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a815c24e69c05130800000000000000
+      internalID: 3553561581399120041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 931
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67bb17d5e3be370800000000000000
+      internalID: 8352838504949708474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 513
+        width: 435
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f881c6ca4e5bcde0800000000000000
+      internalID: -1311851191193204490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 369
+        width: 513
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb8bd18a3285760800000000000000
+      internalID: 7446741188817238943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 909
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19ce63fcdaf3d80800000000000000
+      internalID: -8268699285337632302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 815
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae97eb9548ac950800000000000000
+      internalID: 6470129335653755540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 855
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2126c7094325b100800000000000000
+      internalID: 123043361392566573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 671
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7537894d7b22520800000000000000
+      internalID: 2675903252330141659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 676
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72b2494c1a94aa0800000000000000
+      internalID: -6176227548290406414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 553
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9409b88a5eae8a0800000000000000
+      internalID: -6274950618728609325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d13e9366461a60800000000000000
+      internalID: 7644374811177768216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3201b587382f0690800000000000000
+      internalID: -7633838624438418881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 529
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea0bcd7f079a47e0800000000000000
+      internalID: -1780444609880847633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 527
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9135e9b77f7cb0800000000000000
+      internalID: -4864037432238956811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 509
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178c2323c892ff60800000000000000
+      internalID: 8066677846450145043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd98841141d42190800000000000000
+      internalID: -7988029761600840260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 443
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06cfdee889ea2ac0800000000000000
+      internalID: -3879031354693794292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 465
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e6139f9d0cea40800000000000000
+      internalID: 5398705032329095566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 417
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff5c6d5c89db150800000000000000
+      internalID: 5890031863149756336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 429
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b838992fc1df00800000000000000
+      internalID: 1139919958255907655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 443
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3198583e48d94e0800000000000000
+      internalID: -1973274948985613396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_falling_grid_2_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 484
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb05b890c62fb80800000000000000
+      internalID: -8362502769825759805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_falling_grid_2_0: 3812984774456875703
+      edited_falling_grid_2_1: 3553561581399120041
+      edited_falling_grid_2_10: -6274950618728609325
+      edited_falling_grid_2_11: 7644374811177768216
+      edited_falling_grid_2_12: -7633838624438418881
+      edited_falling_grid_2_13: -1780444609880847633
+      edited_falling_grid_2_14: -4864037432238956811
+      edited_falling_grid_2_15: 8066677846450145043
+      edited_falling_grid_2_16: -7988029761600840260
+      edited_falling_grid_2_17: -3879031354693794292
+      edited_falling_grid_2_18: 5398705032329095566
+      edited_falling_grid_2_19: 5890031863149756336
+      edited_falling_grid_2_2: 8352838504949708474
+      edited_falling_grid_2_20: 1139919958255907655
+      edited_falling_grid_2_21: -1973274948985613396
+      edited_falling_grid_2_22: -8362502769825759805
+      edited_falling_grid_2_3: -1311851191193204490
+      edited_falling_grid_2_4: 7446741188817238943
+      edited_falling_grid_2_5: -8268699285337632302
+      edited_falling_grid_2_6: 6470129335653755540
+      edited_falling_grid_2_7: 123043361392566573
+      edited_falling_grid_2_8: 2675903252330141659
+      edited_falling_grid_2_9: -6176227548290406414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

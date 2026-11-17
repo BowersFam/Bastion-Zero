@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 57eefba04c3b5c64299a47f5bdabd41c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1261683370310600061
+    second: body_jumping_grid_edited_0
+  - first:
+      213: -7430260111852862356
+    second: body_jumping_grid_edited_1
+  - first:
+      213: -6902167422665483724
+    second: body_jumping_grid_edited_2
+  - first:
+      213: 6445622990621735859
+    second: body_jumping_grid_edited_3
+  - first:
+      213: -98458199352061017
+    second: body_jumping_grid_edited_4
+  - first:
+      213: 5768197441873766799
+    second: body_jumping_grid_edited_5
+  - first:
+      213: -318645774216540092
+    second: body_jumping_grid_edited_6
+  - first:
+      213: 8941814651143478374
+    second: body_jumping_grid_edited_7
+  - first:
+      213: 5071218106881786930
+    second: body_jumping_grid_edited_8
+  - first:
+      213: -5063626447650379161
+    second: body_jumping_grid_edited_9
+  - first:
+      213: 1977364752387940451
+    second: body_jumping_grid_edited_10
+  - first:
+      213: -8269267388003868284
+    second: body_jumping_grid_edited_11
+  - first:
+      213: 4447661766496901208
+    second: body_jumping_grid_edited_12
+  - first:
+      213: -8053374168835278229
+    second: body_jumping_grid_edited_13
+  - first:
+      213: 2804851197387604605
+    second: body_jumping_grid_edited_14
+  - first:
+      213: 7306003061804268988
+    second: body_jumping_grid_edited_15
+  - first:
+      213: -5803673471784116086
+    second: body_jumping_grid_edited_16
+  - first:
+      213: -3220241944153222294
+    second: body_jumping_grid_edited_17
+  - first:
+      213: -3243292565283885431
+    second: body_jumping_grid_edited_18
+  - first:
+      213: 5129150468178903231
+    second: body_jumping_grid_edited_19
+  - first:
+      213: 3016104485569315734
+    second: body_jumping_grid_edited_20
+  - first:
+      213: -5094906199363440316
+    second: body_jumping_grid_edited_21
+  - first:
+      213: -8030794680695816964
+    second: body_jumping_grid_edited_22
+  - first:
+      213: -6184651149710556801
+    second: body_jumping_grid_edited_23
+  - first:
+      213: -5123252295834085899
+    second: body_jumping_grid_edited_24
+  - first:
+      213: -9057472536199794223
+    second: body_jumping_grid_edited_25
+  - first:
+      213: -8209711824035637732
+    second: body_jumping_grid_edited_26
+  - first:
+      213: 7806132477703184863
+    second: body_jumping_grid_edited_27
+  - first:
+      213: 4859936114192477581
+    second: body_jumping_grid_edited_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 929
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a7e9dc8a99d7ee0800000000000000
+      internalID: -1261683370310600061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_1
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 547
+        width: 131
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c648144abc962e890800000000000000
+      internalID: -7430260111852862356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1013
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a10cf5c439630a0800000000000000
+      internalID: -6902167422665483724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_3
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 547
+        width: 455
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7918a5f3737950800000000000000
+      internalID: 6445622990621735859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 526
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a355621ac432aef0800000000000000
+      internalID: -98458199352061017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 991
+        width: 103
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89e33d1301cc0050800000000000000
+      internalID: 5768197441873766799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 555
+        width: 385
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d4aa4b51f39bf0800000000000000
+      internalID: -318645774216540092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 947
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c5ac8ac05b71c70800000000000000
+      internalID: 8941814651143478374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 935
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234c73feff5906640800000000000000
+      internalID: 5071218106881786930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 915
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa688f2926ab9b0800000000000000
+      internalID: -5063626447650379161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 667
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360267904c2017b10800000000000000
+      internalID: 1977364752387940451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ae418f19ad3d80800000000000000
+      internalID: -8269267388003868284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_12
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 673
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8585229dfc449bd30800000000000000
+      internalID: 4447661766496901208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_13
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 669
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a344facdaac3090800000000000000
+      internalID: -8053374168835278229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 605
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720e14ad45dce620800000000000000
+      internalID: 2804851197387604605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_15
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 607
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd72ca6313246560800000000000000
+      internalID: 7306003061804268988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 599
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8023f10ab5357fa0800000000000000
+      internalID: -5803673471784116086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 609
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631feb63076f43d0800000000000000
+      internalID: -3220241944153222294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_18
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 607
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea69778928df2d0800000000000000
+      internalID: -3243292565283885431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 594
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00557ec276e2740800000000000000
+      internalID: 5129150468178903231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 1010
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69342d3bc0b5bd920800000000000000
+      internalID: 3016104485569315734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_21
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 549
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b10f3ec14b49b0800000000000000
+      internalID: -5094906199363440316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc770179c2ec8090800000000000000
+      internalID: -8030794680695816964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 205
+        width: 371
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718ac90c84bb2aa0800000000000000
+      internalID: -6184651149710556801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_24
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 77
+        width: 371
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5da1c5e2d86e8b0800000000000000
+      internalID: -5123252295834085899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_25
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 101
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d174f487b46d4280800000000000000
+      internalID: -9057472536199794223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 91
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16180cc79e311e80800000000000000
+      internalID: -8209711824035637732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 37
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1632b3124f45c60800000000000000
+      internalID: 7806132477703184863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_jumping_grid_edited_28
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de8859526f17340800000000000000
+      internalID: 4859936114192477581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      body_jumping_grid_edited_0: -1261683370310600061
+      body_jumping_grid_edited_1: -7430260111852862356
+      body_jumping_grid_edited_10: 1977364752387940451
+      body_jumping_grid_edited_11: -8269267388003868284
+      body_jumping_grid_edited_12: 4447661766496901208
+      body_jumping_grid_edited_13: -8053374168835278229
+      body_jumping_grid_edited_14: 2804851197387604605
+      body_jumping_grid_edited_15: 7306003061804268988
+      body_jumping_grid_edited_16: -5803673471784116086
+      body_jumping_grid_edited_17: -3220241944153222294
+      body_jumping_grid_edited_18: -3243292565283885431
+      body_jumping_grid_edited_19: 5129150468178903231
+      body_jumping_grid_edited_2: -6902167422665483724
+      body_jumping_grid_edited_20: 3016104485569315734
+      body_jumping_grid_edited_21: -5094906199363440316
+      body_jumping_grid_edited_22: -8030794680695816964
+      body_jumping_grid_edited_23: -6184651149710556801
+      body_jumping_grid_edited_24: -5123252295834085899
+      body_jumping_grid_edited_25: -9057472536199794223
+      body_jumping_grid_edited_26: -8209711824035637732
+      body_jumping_grid_edited_27: 7806132477703184863
+      body_jumping_grid_edited_28: 4859936114192477581
+      body_jumping_grid_edited_3: 6445622990621735859
+      body_jumping_grid_edited_4: -98458199352061017
+      body_jumping_grid_edited_5: 5768197441873766799
+      body_jumping_grid_edited_6: -318645774216540092
+      body_jumping_grid_edited_7: 8941814651143478374
+      body_jumping_grid_edited_8: 5071218106881786930
+      body_jumping_grid_edited_9: -5063626447650379161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

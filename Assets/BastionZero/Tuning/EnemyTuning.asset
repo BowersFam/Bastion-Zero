@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4642d37dbe70a34485b4a47000ac0fc, type: 3}
+  m_Name: EnemyTuning
+  m_EditorClassIdentifier: Assembly-CSharp::BastionZero.Enemies.EnemyTuning
+  fodder:
+    patrolSpeed: 2.5
+    chaseSpeed: 4
+    detectionTiles: 6
+    detectionBehindMultiplier: 0.5
+    detectionVerticalTiles: 2
+    attackRange: 1.25
+    telegraphSeconds: 0.4
+    activeSeconds: 0.1
+    lungeTiles: 0.5
+    recoverySeconds: 0.5
+    cooldownSeconds: 0.8
+    leashTiles: 10
+    strikeClass: 0
+  soldier:
+    patrolSpeed: 2
+    chaseSpeed: 4.5
+    detectionTiles: 8
+    detectionBehindMultiplier: 0.5
+    detectionVerticalTiles: 2
+    attackRange: 1.5
+    telegraphSeconds: 0.45
+    activeSeconds: 0.12
+    lungeTiles: 1
+    recoverySeconds: 0.6
+    cooldownSeconds: 1
+    leashTiles: 14
+    strikeClass: 0
+  noticeSeconds: 0.3
+  lostSightSeconds: 3
+  searchSeconds: 2
+  returnTimeoutSeconds: 6
+  reAggroLockoutSeconds: 1
+  directionLockSeconds: 0.15
+  meleeAttackTokens: 2
+  strikeSize: {x: 1.2, y: 0.9}
+  strikeOffset: {x: 0.7, y: 0}
+  attackSignScale: 1
+  attackSignColour: {r: 1, g: 0.78, b: 0.25, a: 1}
+  unblockableSignColour: {r: 1, g: 0.27, b: 0.2, a: 1}
+  attackSignOffset: {x: 0, y: 1.15}
+  bodyHalfExtents: {x: 0.55, y: 0.4}
+  ledgeProbeDepth: 0.6
+  soldierUsesPoise: 1

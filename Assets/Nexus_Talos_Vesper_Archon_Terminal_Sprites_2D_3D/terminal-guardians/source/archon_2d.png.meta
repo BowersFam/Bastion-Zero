@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: db67b38eb57ab4c41ad6cb9d2c1d36fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5848380167363345568
+    second: archon_2d_0
+  - first:
+      213: -6889370573172985011
+    second: archon_2d_1
+  - first:
+      213: -6468758804436493255
+    second: archon_2d_2
+  - first:
+      213: -2468683831964855327
+    second: archon_2d_3
+  - first:
+      213: -6447303562976421743
+    second: archon_2d_4
+  - first:
+      213: 422446017153936806
+    second: archon_2d_5
+  - first:
+      213: 186419980768583683
+    second: archon_2d_6
+  - first:
+      213: -5348077065699469777
+    second: archon_2d_7
+  - first:
+      213: 8890421821209403199
+    second: archon_2d_8
+  - first:
+      213: -4386399285704399691
+    second: archon_2d_9
+  - first:
+      213: -8590619972592830387
+    second: archon_2d_10
+  - first:
+      213: 328075007310795861
+    second: archon_2d_11
+  - first:
+      213: 3497923599115750983
+    second: archon_2d_12
+  - first:
+      213: -1739331496412986551
+    second: archon_2d_13
+  - first:
+      213: -4946515170513292801
+    second: archon_2d_14
+  - first:
+      213: 659941536339757741
+    second: archon_2d_15
+  - first:
+      213: 4555695409387832830
+    second: archon_2d_16
+  - first:
+      213: -3593104955389261096
+    second: archon_2d_17
+  - first:
+      213: 2854940588491619636
+    second: archon_2d_18
+  - first:
+      213: 5877158036027030187
+    second: archon_2d_19
+  - first:
+      213: -8800777697170476421
+    second: archon_2d_20
+  - first:
+      213: -1161926429549337856
+    second: archon_2d_21
+  - first:
+      213: 4412856615248781387
+    second: archon_2d_22
+  - first:
+      213: -838002109241628601
+    second: archon_2d_23
+  - first:
+      213: 7079280386663824369
+    second: archon_2d_24
+  - first:
+      213: 4873755593604968758
+    second: archon_2d_25
+  - first:
+      213: 2729198651840856716
+    second: archon_2d_26
+  - first:
+      213: -102121192142208408
+    second: archon_2d_27
+  - first:
+      213: -9119690511393559564
+    second: archon_2d_28
+  - first:
+      213: 763707259292013845
+    second: archon_2d_29
+  - first:
+      213: -483133661520640818
+    second: archon_2d_30
+  - first:
+      213: -6410035248504234782
+    second: archon_2d_31
+  - first:
+      213: -2995229741226150561
+    second: archon_2d_32
+  - first:
+      213: 2235694293229932205
+    second: archon_2d_33
+  - first:
+      213: 2034441653582577219
+    second: archon_2d_34
+  - first:
+      213: 8895848972357759011
+    second: archon_2d_35
+  - first:
+      213: -8880609631811224796
+    second: archon_2d_36
+  - first:
+      213: 1089578945520712839
+    second: archon_2d_37
+  - first:
+      213: 217791915843945929
+    second: archon_2d_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archon_2d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1882
+        width: 192
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634edc493166dea0800000000000000
+      internalID: -5848380167363345568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1882
+        width: 184
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43bef317f90460a0800000000000000
+      internalID: -6889370573172985011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1860
+        width: 178
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cd1ebe32a5a36a0800000000000000
+      internalID: -6468758804436493255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1878
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31cfc62297dbdd0800000000000000
+      internalID: -2468683831964855327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1687
+        width: 194
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981ea991939686a0800000000000000
+      internalID: -6447303562976421743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1688
+        width: 195
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad2d351a64dcd500800000000000000
+      internalID: 422446017153936806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1685
+        width: 194
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002fbc1cfb469200800000000000000
+      internalID: 186419980768583683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1687
+        width: 183
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d19b7e30d7c5b0800000000000000
+      internalID: -5348077065699469777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 756
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f519cfa8f116b70800000000000000
+      internalID: 8890421821209403199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1258
+        width: 170
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4ef8cf6116023c0800000000000000
+      internalID: -4386399285704399691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1338
+        width: 181
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487a3566acf7c880800000000000000
+      internalID: -8590619972592830387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1298
+        width: 169
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554917e1b7e8d8400800000000000000
+      internalID: 328075007310795861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1302
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e00c80bfe1b8030800000000000000
+      internalID: 3497923599115750983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1095
+        width: 168
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c7a92837acd7e0800000000000000
+      internalID: -1739331496412986551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1109
+        width: 176
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1797109a27a5bb0800000000000000
+      internalID: -4946515170513292801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1099
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa8e0ea455982900800000000000000
+      internalID: 659941536339757741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1085
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5807576d4193f30800000000000000
+      internalID: 4555695409387832830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1095
+        width: 177
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dac355841ab22ec0800000000000000
+      internalID: -3593104955389261096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 164
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d33efc659ce9720800000000000000
+      internalID: 2854940588491619636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 916
+        width: 172
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3932681cdf8150800000000000000
+      internalID: 5877158036027030187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 914
+        width: 199
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7239fc105b5dd580800000000000000
+      internalID: -8800777697170476421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 916
+        width: 191
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003e297811200efe0800000000000000
+      internalID: -1161926429549337856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 179
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40e2a416bd9d3d30800000000000000
+      internalID: 4412856615248781387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 706
+        width: 371
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ef958581de54f0800000000000000
+      internalID: -838002109241628601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_24
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 706
+        width: 193
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbbc780108ae3260800000000000000
+      internalID: 7079280386663824369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 180
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631b5eed3ee03a340800000000000000
+      internalID: 4873755593604968758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 528
+        width: 387
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c820374c6bf00e520800000000000000
+      internalID: 2729198651840856716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 527
+        width: 185
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862035a1151359ef0800000000000000
+      internalID: -102121192142208408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 167
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe2ee4cc9507180800000000000000
+      internalID: -9119690511393559564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 347
+        width: 369
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515dc7eb4bb399a00800000000000000
+      internalID: 763707259292013845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_30
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 351
+        width: 187
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4470e9e709b49f0800000000000000
+      internalID: -483133661520640818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1c2f37eafa07a0800000000000000
+      internalID: -6410035248504234782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 323
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b7857b6ece66d0800000000000000
+      internalID: -2995229741226150561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 395
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae865e4d18c60f10800000000000000
+      internalID: 2235694293229932205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_34
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 170
+        width: 181
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3c0ea7e9cb3c10800000000000000
+      internalID: 2034441653582577219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32078e41287647b70800000000000000
+      internalID: 8895848972357759011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbaf2679cb1c480800000000000000
+      internalID: -8880609631811224796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 191
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb1823746fe1f00800000000000000
+      internalID: 1089578945520712839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archon_2d_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c584d2f790c50300800000000000000
+      internalID: 217791915843945929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      archon_2d_0: -5848380167363345568
+      archon_2d_1: -6889370573172985011
+      archon_2d_10: -8590619972592830387
+      archon_2d_11: 328075007310795861
+      archon_2d_12: 3497923599115750983
+      archon_2d_13: -1739331496412986551
+      archon_2d_14: -4946515170513292801
+      archon_2d_15: 659941536339757741
+      archon_2d_16: 4555695409387832830
+      archon_2d_17: -3593104955389261096
+      archon_2d_18: 2854940588491619636
+      archon_2d_19: 5877158036027030187
+      archon_2d_2: -6468758804436493255
+      archon_2d_20: -8800777697170476421
+      archon_2d_21: -1161926429549337856
+      archon_2d_22: 4412856615248781387
+      archon_2d_23: -838002109241628601
+      archon_2d_24: 7079280386663824369
+      archon_2d_25: 4873755593604968758
+      archon_2d_26: 2729198651840856716
+      archon_2d_27: -102121192142208408
+      archon_2d_28: -9119690511393559564
+      archon_2d_29: 763707259292013845
+      archon_2d_3: -2468683831964855327
+      archon_2d_30: -483133661520640818
+      archon_2d_31: -6410035248504234782
+      archon_2d_32: -2995229741226150561
+      archon_2d_33: 2235694293229932205
+      archon_2d_34: 2034441653582577219
+      archon_2d_35: 8895848972357759011
+      archon_2d_36: -8880609631811224796
+      archon_2d_37: 1089578945520712839
+      archon_2d_38: 217791915843945929
+      archon_2d_4: -6447303562976421743
+      archon_2d_5: 422446017153936806
+      archon_2d_6: 186419980768583683
+      archon_2d_7: -5348077065699469777
+      archon_2d_8: 8890421821209403199
+      archon_2d_9: -4386399285704399691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfb46bcc9b436db40ba86a766d6d6166, type: 3}
+  m_Name: PlayerMovementTuning
+  m_EditorClassIdentifier: Assembly-CSharp::BastionZero.Movement.PlayerMovementTuning
+  MV_01_RunSpeed: 8.5
+  MV_02_GroundAccelTime: 0.05
+  MV_03_GroundStopTime: 0.04
+  MV_04_TurnaroundTime: 0.05
+  MV_05_AirAccelMultiplier: 0.85
+  MV_06_AirTurnMultiplier: 1
+  MV_07_HeldRiseSpeed: 13.8
+  MV_08_MaxHoldTime: 0.18
+  MV_09_Gravity: 62.7
+  MV_10_FullJumpHeight: 4
+  MV_11_TimeToApex: 0.4
+  MV_12_ReleaseCut: 0.5
+  MV_13_MinHoldTime: 0.05
+  MV_14_ApexBandSpeed: 2
+  MV_15_ApexGravityMultiplier: 0.5
+  MV_16_FallGravityMultiplier: 1
+  MV_17_FallCap: 19
+  MV_18_FastFallCap: 26
+  MV_18_FastFallEnabled: 0
+  MV_19_CoyoteTime: 0.1
+  MV_20_JumpBuffer: 0.1
+  MV_21_HeadBumpSuppression: 0.06
+  MV_22_StoredAirJumpsMax: 1
+  MV_26_HitPause: 0.05
+  MV_27_AirStall: 0.06
+  MV_39_WallClimbSpeed: 4
+  MV_40_WallSlideSpeed: 4
+  MV_41_WallJumpPush: 6
+  MV_42_ReClingLockout: 0.12
+  MV_43_HoldAwayReleaseDelay: 0.08
+  collisionSkin: 0.015
+  groundProbeDistance: 0.08
+  wallProbeDistance: 0.04
+  cornerCorrection: 0.1
+  cornerCorrectionMaxRise: 0.3
+  solidLayers:
+    serializedVersion: 2
+    m_Bits: 4294963711
+  hazardLayers:
+    serializedVersion: 2
+    m_Bits: 1024
+  safeGroundDwell: 0.2
+  changeLog: "v0 \u2014 created from spec v3.2 (05-movement.md). No [estimated] value
+    has been retuned yet."

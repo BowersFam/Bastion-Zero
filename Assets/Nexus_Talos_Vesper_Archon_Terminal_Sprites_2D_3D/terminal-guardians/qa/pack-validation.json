@@ -1,0 +1,1677 @@
+{
+  "errors": [],
+  "actions": [
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1236,
+        1228,
+        1265,
+        1211
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.19922,
+        0.25635,
+        0.25659
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1110,
+        1096,
+        1074,
+        1049
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.25732,
+        0.25049,
+        0.23853
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1069,
+        1071,
+        1095,
+        1011
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28369,
+        0.30054,
+        0.30762
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        997,
+        1039,
+        992,
+        964
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.30444,
+        0.30298,
+        0.27026
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        939,
+        1054,
+        1026,
+        960
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.29517,
+        0.30469,
+        0.28223
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1126,
+        988,
+        865,
+        635
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.29883,
+        0.27124,
+        0.21411
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1103,
+        1148,
+        1129,
+        1149
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.26978,
+        0.31079,
+        0.23486
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        966,
+        1158,
+        863,
+        847
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31812,
+        0.30981,
+        0.19141
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        850,
+        943,
+        964,
+        937
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2627,
+        0.23389,
+        0.24829
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1111,
+        1273,
+        959,
+        1012
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3418,
+        0.31787,
+        0.28955
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "2d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        947,
+        894,
+        844,
+        836
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.23413,
+        0.25708,
+        0.23608
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1407,
+        1393,
+        1382,
+        1297
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28613,
+        0.30737,
+        0.26611
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1347,
+        1312,
+        1348,
+        1212
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.32715,
+        0.30713,
+        0.31128
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1213,
+        1245,
+        1136,
+        1146
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2771,
+        0.31177,
+        0.31152
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1038,
+        1095,
+        1090,
+        1020
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.27319,
+        0.30737,
+        0.30884
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        964,
+        1055,
+        1114,
+        1045
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28467,
+        0.31689,
+        0.27905
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1129,
+        1087,
+        941,
+        791
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34082,
+        0.28687,
+        0.24951
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1200,
+        1256,
+        1169,
+        1074
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34375,
+        0.32202,
+        0.23999
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1063,
+        1144,
+        1128,
+        1032
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28711,
+        0.30493,
+        0.29858
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1039,
+        1071,
+        1064,
+        1017
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.25635,
+        0.21826,
+        0.29175
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1183,
+        1189,
+        1212,
+        1114
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31543,
+        0.35571,
+        0.3313
+      ]
+    },
+    {
+      "character": "nexus",
+      "style": "3d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1108,
+        965,
+        940,
+        907
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.25439,
+        0.30957,
+        0.26367
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1336,
+        1391,
+        1376,
+        1339
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.29907,
+        0.24341,
+        0.29614
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1249,
+        1212,
+        1230,
+        1176
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.27319,
+        0.27856,
+        0.29272
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1147,
+        1149,
+        1105,
+        1157
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.29517,
+        0.2417,
+        0.32202
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1067,
+        1169,
+        1167,
+        1097
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.35107,
+        0.3811,
+        0.32373
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1060,
+        1119,
+        1150,
+        996
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.36353,
+        0.37158,
+        0.28955
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1445,
+        1276,
+        1010,
+        771
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.4021,
+        0.34546,
+        0.22705
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1370,
+        1326,
+        1286,
+        1221
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34473,
+        0.36597,
+        0.29858
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1253,
+        1129,
+        1081,
+        1095
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34277,
+        0.26343,
+        0.29272
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1252,
+        1202,
+        1277,
+        1165
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.35083,
+        0.33496,
+        0.35376
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1286,
+        1328,
+        1263,
+        1287
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.35596,
+        0.34839,
+        0.30908
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "2d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1199,
+        1179,
+        1152,
+        1171
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.27979,
+        0.35522,
+        0.24585
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1327,
+        1329,
+        1333,
+        1322
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.18066,
+        0.2207,
+        0.22803
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1249,
+        1215,
+        1222,
+        1165
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.21899,
+        0.25366,
+        0.22925
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1007,
+        1035,
+        995,
+        971
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2478,
+        0.19702,
+        0.26367
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1128,
+        1083,
+        1009,
+        991
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3125,
+        0.30884,
+        0.30176
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1047,
+        1074,
+        1101,
+        997
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34375,
+        0.33301,
+        0.29004
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1170,
+        1075,
+        901,
+        673
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.33301,
+        0.27466,
+        0.21118
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1161,
+        1130,
+        1132,
+        1046
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.25952,
+        0.2876,
+        0.21289
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1109,
+        1136,
+        1144,
+        1117
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2915,
+        0.29272,
+        0.24561
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1135,
+        1010,
+        1013,
+        1131
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.22998,
+        0.25586,
+        0.28564
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1188,
+        1172,
+        1255,
+        1237
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.23901,
+        0.30591,
+        0.33496
+      ]
+    },
+    {
+      "character": "talos",
+      "style": "3d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1405,
+        1249,
+        1205,
+        1223
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.33789,
+        0.28809,
+        0.2981
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1147,
+        1153,
+        1158,
+        1161
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.19067,
+        0.20117,
+        0.19409
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1090,
+        1089,
+        1072,
+        1080
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.23389,
+        0.23462,
+        0.22632
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1068,
+        926,
+        952,
+        896
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28296,
+        0.27808,
+        0.31592
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        916,
+        963,
+        980,
+        925
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28345,
+        0.31274,
+        0.27637
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        980,
+        1002,
+        1035,
+        931
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.32056,
+        0.33179,
+        0.25684
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1098,
+        1031,
+        871,
+        658
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.30469,
+        0.26636,
+        0.23779
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1014,
+        1072,
+        1040,
+        1023
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.28564,
+        0.30664,
+        0.23389
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1021,
+        1006,
+        1026,
+        1011
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2915,
+        0.27148,
+        0.23218
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        959,
+        1030,
+        962,
+        1040
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.24341,
+        0.2334,
+        0.2478
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1255,
+        1466,
+        1051,
+        1031
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34595,
+        0.37646,
+        0.2832
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "2d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1168,
+        836,
+        852,
+        749
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2981,
+        0.26831,
+        0.25439
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1419,
+        1393,
+        1402,
+        1382
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.26733,
+        0.23682,
+        0.26099
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1251,
+        1264,
+        1239,
+        1276
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.25195,
+        0.26172,
+        0.26538
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1176,
+        1073,
+        1120,
+        1025
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.32007,
+        0.31787,
+        0.36157
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1002,
+        1156,
+        1080,
+        1033
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31909,
+        0.34155,
+        0.31372
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1020,
+        1138,
+        1120,
+        990
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.36035,
+        0.35425,
+        0.25537
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1304,
+        1172,
+        951,
+        733
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.33325,
+        0.28735,
+        0.22754
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1237,
+        1293,
+        1235,
+        1214
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31641,
+        0.33301,
+        0.26758
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1177,
+        1187,
+        1164,
+        1133
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.29639,
+        0.29736,
+        0.29126
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1064,
+        1091,
+        1095,
+        1057
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.24927,
+        0.27246,
+        0.27783
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1097,
+        1621,
+        1207,
+        1164
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.38501,
+        0.41821,
+        0.31787
+      ]
+    },
+    {
+      "character": "vesper",
+      "style": "3d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1284,
+        922,
+        1043,
+        843
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.32251,
+        0.3186,
+        0.28735
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1422,
+        1408,
+        1379,
+        1358
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.20142,
+        0.20947,
+        0.2019
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1414,
+        1336,
+        1329,
+        1254
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31104,
+        0.26538,
+        0.2793
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1178,
+        1211,
+        1168,
+        1113
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31812,
+        0.3562,
+        0.27783
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1128,
+        1167,
+        1224,
+        1210
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.35376,
+        0.37329,
+        0.35986
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1175,
+        1128,
+        1160,
+        985
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.36694,
+        0.38623,
+        0.28442
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1350,
+        1236,
+        1088,
+        794
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.32959,
+        0.31665,
+        0.25439
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1277,
+        1349,
+        1223,
+        1210
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.38232,
+        0.38696,
+        0.29834
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1147,
+        1173,
+        1202,
+        1211
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.2771,
+        0.31396,
+        0.28003
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1253,
+        1184,
+        1147,
+        1144
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3147,
+        0.33325,
+        0.24146
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1205,
+        1161,
+        1136,
+        1151
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3374,
+        0.33472,
+        0.27441
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "2d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1439,
+        1187,
+        1040,
+        1107
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.37305,
+        0.29321,
+        0.25464
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "standing",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1548,
+        1519,
+        1534,
+        1484
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.20581,
+        0.19653,
+        0.1897
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "walking",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1509,
+        1477,
+        1429,
+        1365
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.26538,
+        0.2937,
+        0.3042
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "running",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1263,
+        1293,
+        1249,
+        1199
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3269,
+        0.36011,
+        0.28418
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "jumping",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1174,
+        1235,
+        1253,
+        1271
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.36328,
+        0.36768,
+        0.35278
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "falling",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1225,
+        1177,
+        1238,
+        1089
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.3833,
+        0.38306,
+        0.30664
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "death",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1460,
+        1296,
+        1206,
+        927
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.34644,
+        0.33472,
+        0.26562
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "hit",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1400,
+        1528,
+        1365,
+        1305
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.41895,
+        0.42627,
+        0.29565
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "attack_1",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1212,
+        1298,
+        1331,
+        1266
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.30127,
+        0.3252,
+        0.28516
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "attack_2",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1313,
+        1282,
+        1264,
+        1251
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.31079,
+        0.3606,
+        0.27368
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "attack_3",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1358,
+        1292,
+        1278,
+        1252
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.36304,
+        0.35376,
+        0.29956
+      ]
+    },
+    {
+      "character": "archon",
+      "style": "3d",
+      "action": "flying",
+      "frames": 4,
+      "unique_frames": 4,
+      "foreground_pixels": [
+        1561,
+        1298,
+        1171,
+        1231
+      ],
+      "edge_contact_frames": [],
+      "changed_fraction": [
+        0.37085,
+        0.2561,
+        0.25684
+      ]
+    }
+  ]
+}

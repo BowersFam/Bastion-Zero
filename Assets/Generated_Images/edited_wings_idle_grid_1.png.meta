@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: eaa205678c637bd41be238ddbde9d853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5499549901371950258
+    second: edited_wings_idle_grid_1_0
+  - first:
+      213: 7735711267005035882
+    second: edited_wings_idle_grid_1_1
+  - first:
+      213: 2363160352594921043
+    second: edited_wings_idle_grid_1_2
+  - first:
+      213: -5513729395603132708
+    second: edited_wings_idle_grid_1_3
+  - first:
+      213: 5455067020908075349
+    second: edited_wings_idle_grid_1_4
+  - first:
+      213: -6525154781578775736
+    second: edited_wings_idle_grid_1_5
+  - first:
+      213: 5491744927804201293
+    second: edited_wings_idle_grid_1_6
+  - first:
+      213: 6103702821992757311
+    second: edited_wings_idle_grid_1_7
+  - first:
+      213: -4617170216263572476
+    second: edited_wings_idle_grid_1_8
+  - first:
+      213: -5861290797659918011
+    second: edited_wings_idle_grid_1_9
+  - first:
+      213: -4023707536218209096
+    second: edited_wings_idle_grid_1_10
+  - first:
+      213: 6674406423374780773
+    second: edited_wings_idle_grid_1_11
+  - first:
+      213: -1766647950987725468
+    second: edited_wings_idle_grid_1_12
+  - first:
+      213: -1842860967691620155
+    second: edited_wings_idle_grid_1_13
+  - first:
+      213: -4087537122442996344
+    second: edited_wings_idle_grid_1_14
+  - first:
+      213: 4408613437296576024
+    second: edited_wings_idle_grid_1_15
+  - first:
+      213: -582554833182247158
+    second: edited_wings_idle_grid_1_16
+  - first:
+      213: -3776421666228430020
+    second: edited_wings_idle_grid_1_17
+  - first:
+      213: -7086553243170789774
+    second: edited_wings_idle_grid_1_18
+  - first:
+      213: 6840649071305282054
+    second: edited_wings_idle_grid_1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 525
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bb038a08cada3b0800000000000000
+      internalID: -5499549901371950258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1119
+        width: 513
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6572da6964ca5b60800000000000000
+      internalID: 7735711267005035882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1315
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35605b3f1d1abc020800000000000000
+      internalID: 2363160352594921043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1170
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2273e35c4b73b0800000000000000
+      internalID: -5513729395603132708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599c27ad8a44bb40800000000000000
+      internalID: 5455067020908075349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1143
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433e834c4ef175a0800000000000000
+      internalID: -6525154781578775736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1137
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4992d25ae8963c40800000000000000
+      internalID: 5491744927804201293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1126
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387d67b065b4b450800000000000000
+      internalID: 6103702821992757311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_8
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1135
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a810b6248cefb0800000000000000
+      internalID: -4617170216263572476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 740
+        width: 507
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f630f21388aea0800000000000000
+      internalID: -5861290797659918011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 913
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c6a7705be828c0800000000000000
+      internalID: -4023707536218209096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 909
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d6df874140ac50800000000000000
+      internalID: 6674406423374780773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 771
+        width: 475
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46574367c0b9b77e0800000000000000
+      internalID: -1766647950987725468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 527
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0fe4ab6b7dc66e0800000000000000
+      internalID: -1842860967691620155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 757
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851092d4a62647c0800000000000000
+      internalID: -4087537122442996344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 381
+        width: 501
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816831a309a8e2d30800000000000000
+      internalID: 4408613437296576024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073cf937795ae7f0800000000000000
+      internalID: -582554833182247158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 471
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b9d5eb084779bc0800000000000000
+      internalID: -3776421666228430020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 503
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a9ea1f5187ad90800000000000000
+      internalID: -7086553243170789774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_wings_idle_grid_1_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 15
+        width: 485
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d148461edeee50800000000000000
+      internalID: 6840649071305282054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_wings_idle_grid_1_0: -5499549901371950258
+      edited_wings_idle_grid_1_1: 7735711267005035882
+      edited_wings_idle_grid_1_10: -4023707536218209096
+      edited_wings_idle_grid_1_11: 6674406423374780773
+      edited_wings_idle_grid_1_12: -1766647950987725468
+      edited_wings_idle_grid_1_13: -1842860967691620155
+      edited_wings_idle_grid_1_14: -4087537122442996344
+      edited_wings_idle_grid_1_15: 4408613437296576024
+      edited_wings_idle_grid_1_16: -582554833182247158
+      edited_wings_idle_grid_1_17: -3776421666228430020
+      edited_wings_idle_grid_1_18: -7086553243170789774
+      edited_wings_idle_grid_1_19: 6840649071305282054
+      edited_wings_idle_grid_1_2: 2363160352594921043
+      edited_wings_idle_grid_1_3: -5513729395603132708
+      edited_wings_idle_grid_1_4: 5455067020908075349
+      edited_wings_idle_grid_1_5: -6525154781578775736
+      edited_wings_idle_grid_1_6: 5491744927804201293
+      edited_wings_idle_grid_1_7: 6103702821992757311
+      edited_wings_idle_grid_1_8: -4617170216263572476
+      edited_wings_idle_grid_1_9: -5861290797659918011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

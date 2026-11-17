@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: ad8791024ee6ae94391deca456fdd11d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4319953064079701562
+    second: vesper_2d-ansi256_0
+  - first:
+      213: 5918150961269419640
+    second: vesper_2d-ansi256_1
+  - first:
+      213: 2751913160832867347
+    second: vesper_2d-ansi256_2
+  - first:
+      213: 2178989233724614485
+    second: vesper_2d-ansi256_3
+  - first:
+      213: -5028459020788244797
+    second: vesper_2d-ansi256_4
+  - first:
+      213: -3330638795438919082
+    second: vesper_2d-ansi256_5
+  - first:
+      213: 4751702216929714017
+    second: vesper_2d-ansi256_6
+  - first:
+      213: -7805734834873272108
+    second: vesper_2d-ansi256_7
+  - first:
+      213: 7923077363333348444
+    second: vesper_2d-ansi256_8
+  - first:
+      213: 1909159780494569096
+    second: vesper_2d-ansi256_9
+  - first:
+      213: 8938046005317803356
+    second: vesper_2d-ansi256_10
+  - first:
+      213: -7028975883203648205
+    second: vesper_2d-ansi256_11
+  - first:
+      213: -7736083707299176214
+    second: vesper_2d-ansi256_12
+  - first:
+      213: 8212053798218955837
+    second: vesper_2d-ansi256_13
+  - first:
+      213: 2271221550703680627
+    second: vesper_2d-ansi256_14
+  - first:
+      213: 8953127211170292932
+    second: vesper_2d-ansi256_15
+  - first:
+      213: 2309012968571295710
+    second: vesper_2d-ansi256_16
+  - first:
+      213: -1173928354426167694
+    second: vesper_2d-ansi256_17
+  - first:
+      213: 2522277858715603982
+    second: vesper_2d-ansi256_18
+  - first:
+      213: -4061709976224276295
+    second: vesper_2d-ansi256_19
+  - first:
+      213: -3238348743596871687
+    second: vesper_2d-ansi256_20
+  - first:
+      213: 4917110245361310572
+    second: vesper_2d-ansi256_21
+  - first:
+      213: -4646409420221687425
+    second: vesper_2d-ansi256_22
+  - first:
+      213: -5265471532754988131
+    second: vesper_2d-ansi256_23
+  - first:
+      213: 1605555740916620691
+    second: vesper_2d-ansi256_24
+  - first:
+      213: 2103607592668385784
+    second: vesper_2d-ansi256_25
+  - first:
+      213: 2577969350781688525
+    second: vesper_2d-ansi256_26
+  - first:
+      213: -4926329651633421316
+    second: vesper_2d-ansi256_27
+  - first:
+      213: -3488160822416338659
+    second: vesper_2d-ansi256_28
+  - first:
+      213: -6793834892727574817
+    second: vesper_2d-ansi256_29
+  - first:
+      213: -748075469668338567
+    second: vesper_2d-ansi256_30
+  - first:
+      213: 6377172038584085929
+    second: vesper_2d-ansi256_31
+  - first:
+      213: 1062781526227348753
+    second: vesper_2d-ansi256_32
+  - first:
+      213: -4114732995190191263
+    second: vesper_2d-ansi256_33
+  - first:
+      213: -4358030985850594019
+    second: vesper_2d-ansi256_34
+  - first:
+      213: 7874789822132459929
+    second: vesper_2d-ansi256_35
+  - first:
+      213: -743664513866914021
+    second: vesper_2d-ansi256_36
+  - first:
+      213: -8052190831463809439
+    second: vesper_2d-ansi256_37
+  - first:
+      213: 2804200350073331774
+    second: vesper_2d-ansi256_38
+  - first:
+      213: -2062966255669074297
+    second: vesper_2d-ansi256_39
+  - first:
+      213: -2815446646541855857
+    second: vesper_2d-ansi256_40
+  - first:
+      213: -3580392476211284870
+    second: vesper_2d-ansi256_41
+  - first:
+      213: -325780231009484564
+    second: vesper_2d-ansi256_42
+  - first:
+      213: -3713404788389974505
+    second: vesper_2d-ansi256_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b4d67c6e83fb30800000000000000
+      internalID: 4319953064079701562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 643
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea99d81fe712250800000000000000
+      internalID: 5918150961269419640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 642
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c5a248072c03620800000000000000
+      internalID: 2751913160832867347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 642
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576e8dc9235d3e10800000000000000
+      internalID: 2178989233724614485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 579
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cede4a9923573ab0800000000000000
+      internalID: -5028459020788244797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 579
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6527aba79a137c1d0800000000000000
+      internalID: -3330638795438919082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 579
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f188e9dff61f140800000000000000
+      internalID: 4751702216929714017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 580
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87c7436857ca390800000000000000
+      internalID: -7805734834873272108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 515
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3c6932ec64fd60800000000000000
+      internalID: 7923077363333348444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 516
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e67d784b2be7a10800000000000000
+      internalID: 1909159780494569096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 515
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d111d6c715a0c70800000000000000
+      internalID: 8938046005317803356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 523
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ebd2ecaf047e90800000000000000
+      internalID: -7028975883203648205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0eeb11bd8e3a490800000000000000
+      internalID: -7736083707299176214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 452
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfc3f8b6317f170800000000000000
+      internalID: 8212053798218955837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 458
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c97e787fff48f10800000000000000
+      internalID: 2271221550703680627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 464
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c460ba43c5ef3c70800000000000000
+      internalID: 8953127211170292932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 399
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7567daf034b0020800000000000000
+      internalID: 2309012968571295710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 393
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e5ba2a16e55bfe0800000000000000
+      internalID: -1173928354426167694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 387
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e049391595ee00320800000000000000
+      internalID: 2522277858715603982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 387
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0ed76eb48e1a7c0800000000000000
+      internalID: -4061709976224276295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 326
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6317a9f21f03d0800000000000000
+      internalID: -3238348743596871687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 326
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bd13857b51d3440800000000000000
+      internalID: 4917110245361310572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 326
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7958a20043a48fb0800000000000000
+      internalID: -4646409420221687425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 323
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d931533e9894de6b0800000000000000
+      internalID: -5265471532754988131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d9c649074184610800000000000000
+      internalID: 1605555740916620691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 259
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f150dbc5f3813d10800000000000000
+      internalID: 2103607592668385784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadf234779c6c320800000000000000
+      internalID: 2577969350781688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 259
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38aeb584922abb0800000000000000
+      internalID: -4926329651633421316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11907c8630979fc0800000000000000
+      internalID: -3488160822416338659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde915c092377b1a0800000000000000
+      internalID: -6793834892727574817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 195
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9743c35e25d4e95f0800000000000000
+      internalID: -748075469668338567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 195
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adab5f6e24408850800000000000000
+      internalID: 6377172038584085929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de0a0da22cfbe00800000000000000
+      internalID: 1062781526227348753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0c14442885e6c0800000000000000
+      internalID: -4114732995190191263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dda3088e92583c0800000000000000
+      internalID: -4358030985850594019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999111dee9fd84d60800000000000000
+      internalID: 7874789822132459929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1726e29019fda5f0800000000000000
+      internalID: -743664513866914021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e31f2e91fd04090800000000000000
+      internalID: -8052190831463809439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30a5217c558ae620800000000000000
+      internalID: 2804200350073331774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7862a3bde1fde53e0800000000000000
+      internalID: -2062966255669074297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83decc11368de8d0800000000000000
+      internalID: -2815446646541855857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f1fa3304ef4ec0800000000000000
+      internalID: -3580392476211284870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c5df1b989a7bf0800000000000000
+      internalID: -325780231009484564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vesper_2d-ansi256_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee7c8f406577cc0800000000000000
+      internalID: -3713404788389974505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vesper_2d-ansi256_0: 4319953064079701562
+      vesper_2d-ansi256_1: 5918150961269419640
+      vesper_2d-ansi256_10: 8938046005317803356
+      vesper_2d-ansi256_11: -7028975883203648205
+      vesper_2d-ansi256_12: -7736083707299176214
+      vesper_2d-ansi256_13: 8212053798218955837
+      vesper_2d-ansi256_14: 2271221550703680627
+      vesper_2d-ansi256_15: 8953127211170292932
+      vesper_2d-ansi256_16: 2309012968571295710
+      vesper_2d-ansi256_17: -1173928354426167694
+      vesper_2d-ansi256_18: 2522277858715603982
+      vesper_2d-ansi256_19: -4061709976224276295
+      vesper_2d-ansi256_2: 2751913160832867347
+      vesper_2d-ansi256_20: -3238348743596871687
+      vesper_2d-ansi256_21: 4917110245361310572
+      vesper_2d-ansi256_22: -4646409420221687425
+      vesper_2d-ansi256_23: -5265471532754988131
+      vesper_2d-ansi256_24: 1605555740916620691
+      vesper_2d-ansi256_25: 2103607592668385784
+      vesper_2d-ansi256_26: 2577969350781688525
+      vesper_2d-ansi256_27: -4926329651633421316
+      vesper_2d-ansi256_28: -3488160822416338659
+      vesper_2d-ansi256_29: -6793834892727574817
+      vesper_2d-ansi256_3: 2178989233724614485
+      vesper_2d-ansi256_30: -748075469668338567
+      vesper_2d-ansi256_31: 6377172038584085929
+      vesper_2d-ansi256_32: 1062781526227348753
+      vesper_2d-ansi256_33: -4114732995190191263
+      vesper_2d-ansi256_34: -4358030985850594019
+      vesper_2d-ansi256_35: 7874789822132459929
+      vesper_2d-ansi256_36: -743664513866914021
+      vesper_2d-ansi256_37: -8052190831463809439
+      vesper_2d-ansi256_38: 2804200350073331774
+      vesper_2d-ansi256_39: -2062966255669074297
+      vesper_2d-ansi256_4: -5028459020788244797
+      vesper_2d-ansi256_40: -2815446646541855857
+      vesper_2d-ansi256_41: -3580392476211284870
+      vesper_2d-ansi256_42: -325780231009484564
+      vesper_2d-ansi256_43: -3713404788389974505
+      vesper_2d-ansi256_5: -3330638795438919082
+      vesper_2d-ansi256_6: 4751702216929714017
+      vesper_2d-ansi256_7: -7805734834873272108
+      vesper_2d-ansi256_8: 7923077363333348444
+      vesper_2d-ansi256_9: 1909159780494569096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "title": "Terminal Guardians",
+  "version": "1.0.0",
+  "canvas": [
+    64,
+    64
+  ],
+  "terminal_cells": [
+    64,
+    32
+  ],
+  "palette": "fixed xterm256 subset",
+  "palette_indices": [
+    16,
+    232,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    243,
+    245,
+    52,
+    58,
+    94,
+    95,
+    130,
+    136,
+    137,
+    172,
+    178,
+    180,
+    214,
+    215,
+    220,
+    221,
+    223,
+    229,
+    230,
+    250,
+    254,
+    255
+  ],
+  "note": "3d means voxel-style raster sprites, not a 3D mesh. Halos interpreted as Talos.",
+  "characters": {
+    "nexus": {
+      "name": "Nexus",
+      "styles": {
+        "2d": "sprites/nexus/2d.json",
+        "3d": "sprites/nexus/3d.json"
+      }
+    },
+    "talos": {
+      "name": "Talos",
+      "styles": {
+        "2d": "sprites/talos/2d.json",
+        "3d": "sprites/talos/3d.json"
+      }
+    },
+    "vesper": {
+      "name": "Vesper",
+      "styles": {
+        "2d": "sprites/vesper/2d.json",
+        "3d": "sprites/vesper/3d.json"
+      }
+    },
+    "archon": {
+      "name": "Archon",
+      "styles": {
+        "2d": "sprites/archon/2d.json",
+        "3d": "sprites/archon/3d.json"
+      }
+    }
+  }
+}

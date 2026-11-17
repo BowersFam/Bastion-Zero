@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: fc7c3779fecef2445b77e5df872591a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6562835379742958960
+    second: edited_nexus_2d_wingless_1_0
+  - first:
+      213: -5644904464730131781
+    second: edited_nexus_2d_wingless_1_1
+  - first:
+      213: 3625921184691396159
+    second: edited_nexus_2d_wingless_1_2
+  - first:
+      213: 6115781009553983673
+    second: edited_nexus_2d_wingless_1_3
+  - first:
+      213: 8194169039783964754
+    second: edited_nexus_2d_wingless_1_4
+  - first:
+      213: 9052215102957727710
+    second: edited_nexus_2d_wingless_1_5
+  - first:
+      213: 5369404492845717787
+    second: edited_nexus_2d_wingless_1_6
+  - first:
+      213: -5719863851221945551
+    second: edited_nexus_2d_wingless_1_7
+  - first:
+      213: 3816249308787636220
+    second: edited_nexus_2d_wingless_1_8
+  - first:
+      213: 6933855317188487006
+    second: edited_nexus_2d_wingless_1_9
+  - first:
+      213: -2645437225986973630
+    second: edited_nexus_2d_wingless_1_10
+  - first:
+      213: -8293563334020698846
+    second: edited_nexus_2d_wingless_1_11
+  - first:
+      213: 2532837932768926295
+    second: edited_nexus_2d_wingless_1_12
+  - first:
+      213: 3362485032242767106
+    second: edited_nexus_2d_wingless_1_13
+  - first:
+      213: -8811905510406905088
+    second: edited_nexus_2d_wingless_1_14
+  - first:
+      213: -2333294943106463287
+    second: edited_nexus_2d_wingless_1_15
+  - first:
+      213: -4697179154712893978
+    second: edited_nexus_2d_wingless_1_16
+  - first:
+      213: 7396773897699167222
+    second: edited_nexus_2d_wingless_1_17
+  - first:
+      213: 786719931554663325
+    second: edited_nexus_2d_wingless_1_18
+  - first:
+      213: -3316491902084384369
+    second: edited_nexus_2d_wingless_1_19
+  - first:
+      213: 2936212436672993953
+    second: edited_nexus_2d_wingless_1_20
+  - first:
+      213: -2507169168281807598
+    second: edited_nexus_2d_wingless_1_21
+  - first:
+      213: -439117431516158379
+    second: edited_nexus_2d_wingless_1_22
+  - first:
+      213: -3938772811060602801
+    second: edited_nexus_2d_wingless_1_23
+  - first:
+      213: 7193183669576923136
+    second: edited_nexus_2d_wingless_1_24
+  - first:
+      213: -6909801404026590351
+    second: edited_nexus_2d_wingless_1_25
+  - first:
+      213: 865043050628603865
+    second: edited_nexus_2d_wingless_1_26
+  - first:
+      213: 1480610366138574363
+    second: edited_nexus_2d_wingless_1_27
+  - first:
+      213: 7050077986955332153
+    second: edited_nexus_2d_wingless_1_28
+  - first:
+      213: -3517044943260077866
+    second: edited_nexus_2d_wingless_1_29
+  - first:
+      213: -2645824521709623818
+    second: edited_nexus_2d_wingless_1_30
+  - first:
+      213: 7846761922576207131
+    second: edited_nexus_2d_wingless_1_31
+  - first:
+      213: -646704993138953015
+    second: edited_nexus_2d_wingless_1_32
+  - first:
+      213: 5146202606054082427
+    second: edited_nexus_2d_wingless_1_33
+  - first:
+      213: -80872158755587193
+    second: edited_nexus_2d_wingless_1_34
+  - first:
+      213: 1630338365880363050
+    second: edited_nexus_2d_wingless_1_35
+  - first:
+      213: 7791272291701246330
+    second: edited_nexus_2d_wingless_1_36
+  - first:
+      213: 19853739704160826
+    second: edited_nexus_2d_wingless_1_37
+  - first:
+      213: 3177160546829388387
+    second: edited_nexus_2d_wingless_1_38
+  - first:
+      213: 7947903184407564986
+    second: edited_nexus_2d_wingless_1_39
+  - first:
+      213: -4891432304568893164
+    second: edited_nexus_2d_wingless_1_40
+  - first:
+      213: 6925496829663374574
+    second: edited_nexus_2d_wingless_1_41
+  - first:
+      213: 4386006342965798597
+    second: edited_nexus_2d_wingless_1_42
+  - first:
+      213: -5809312919204622883
+    second: edited_nexus_2d_wingless_1_43
+  - first:
+      213: 9163524646938511670
+    second: edited_nexus_2d_wingless_1_44
+  - first:
+      213: 8985490019305756701
+    second: edited_nexus_2d_wingless_1_45
+  - first:
+      213: -6325786387711548245
+    second: edited_nexus_2d_wingless_1_46
+  - first:
+      213: 3773403738057123177
+    second: edited_nexus_2d_wingless_1_47
+  - first:
+      213: -9214478496141379312
+    second: edited_nexus_2d_wingless_1_48
+  - first:
+      213: 5533350873275746050
+    second: edited_nexus_2d_wingless_1_49
+  - first:
+      213: 1972776905478592910
+    second: edited_nexus_2d_wingless_1_50
+  - first:
+      213: 8402170568161542680
+    second: edited_nexus_2d_wingless_1_51
+  - first:
+      213: 8145493832935463804
+    second: edited_nexus_2d_wingless_1_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1901
+        width: 134
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e1f8a100e31b50800000000000000
+      internalID: 6562835379742958960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1899
+        width: 138
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27ebc1c4549a1b0800000000000000
+      internalID: -5644904464730131781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1899
+        width: 148
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e18154b1cd15230800000000000000
+      internalID: 3625921184691396159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1868
+        width: 153
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88b86ec6e9fd450800000000000000
+      internalID: 6115781009553983673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1705
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250b3ddb35987b170800000000000000
+      internalID: 8194169039783964754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1703
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfa83aecadef9d70800000000000000
+      internalID: 9052215102957727710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1669
+        width: 135
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19947b10f4f38a40800000000000000
+      internalID: 5369404492845717787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1707
+        width: 117
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1337158e126fe90b0800000000000000
+      internalID: -5719863851221945551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1512
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7fd98e68a06f430800000000000000
+      internalID: 3816249308787636220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1466
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5729f08ca00a3060800000000000000
+      internalID: 6933855317188487006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1488
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240a37debd4894bd0800000000000000
+      internalID: -2645437225986973630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1474
+        width: 155
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ded71c61857ec80800000000000000
+      internalID: -8293563334020698846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1290
+        width: 167
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a93582ea2762320800000000000000
+      internalID: 2532837932768926295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1512
+        width: 146
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e5655252f9ae20800000000000000
+      internalID: 3362485032242767106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1334
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a3e130a2d5b580800000000000000
+      internalID: -8811905510406905088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1296
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c98cef8c987e9fd0800000000000000
+      internalID: -2333294943106463287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1292
+        width: 159
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e7fc027440deb0800000000000000
+      internalID: -4697179154712893978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1306
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb8d309bae96a660800000000000000
+      internalID: 7396773897699167222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1139
+        width: 137
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b090a0c9dfaea00800000000000000
+      internalID: 786719931554663325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1098
+        width: 142
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89fcc3cf2479f1d0800000000000000
+      internalID: -3316491902084384369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1129
+        width: 138
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5af887a58fb820800000000000000
+      internalID: 2936212436672993953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1113
+        width: 129
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21550cccceeb43dd0800000000000000
+      internalID: -2507169168281807598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 949
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562cc7c501f7e9f0800000000000000
+      internalID: -439117431516158379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 932
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4814c13ffaa659c0800000000000000
+      internalID: -3938772811060602801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 916
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008f545bf6253d360800000000000000
+      internalID: 7193183669576923136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1065
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bef749b347b10a0800000000000000
+      internalID: -6909801404026590351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 914
+        width: 150
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df53244210410c00800000000000000
+      internalID: 865043050628603865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 738
+        width: 124
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16637c884f2c8410800000000000000
+      internalID: 1480610366138574363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 722
+        width: 176
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a06438398e6d160800000000000000
+      internalID: 7050077986955332153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 853
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d036e91242f03fc0800000000000000
+      internalID: -3517044943260077866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_30
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 859
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ea7d9d94284bd0800000000000000
+      internalID: -2645824521709623818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 722
+        width: 169
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4738056c45ec60800000000000000
+      internalID: 7846761922576207131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 722
+        width: 167
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43b713c317607f0800000000000000
+      internalID: -646704993138953015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 527
+        width: 172
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b770b04210cfa6740800000000000000
+      internalID: 5146202606054082427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 529
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7729333fa0eef0800000000000000
+      internalID: -80872158755587193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a286df91b1020a610800000000000000
+      internalID: 1630338365880363050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79423f8ed8202c60800000000000000
+      internalID: 7791272291701246330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 527
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32978efed8864000800000000000000
+      internalID: 19853739704160826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 507
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac62c1faa871c20800000000000000
+      internalID: 3177160546829388387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 343
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab21fcf16df9c4e60800000000000000
+      internalID: 7947903184407564986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 367
+        width: 204
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110d432c342e1cb0800000000000000
+      internalID: -4891432304568893164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 318
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeced297cae4c1060800000000000000
+      internalID: 6925496829663374574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 366
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c62617e7893edc30800000000000000
+      internalID: 4386006342965798597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 190
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd88b5ddac216fa0800000000000000
+      internalID: -5809312919204622883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_44
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 368
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6398e4fad116b2f70800000000000000
+      internalID: 9163524646938511670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 190
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18998db09fd2bc70800000000000000
+      internalID: 8985490019305756701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a37bbbca4638a0800000000000000
+      internalID: -6325786387711548245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 148
+        width: 185
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965a60915b2dd5430800000000000000
+      internalID: 3773403738057123177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 146
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019740fc0a89f1080800000000000000
+      internalID: -9214478496141379312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 160
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c2336d496acc40800000000000000
+      internalID: 5533350873275746050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 190
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895520b426b06b10800000000000000
+      internalID: 1972776905478592910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 18
+        width: 174
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812c2897d918a9470800000000000000
+      internalID: 8402170568161542680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edited_nexus_2d_wingless_1_52
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 9
+        width: 161
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd0400c7b9a0170800000000000000
+      internalID: 8145493832935463804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edited_nexus_2d_wingless_1_0: 6562835379742958960
+      edited_nexus_2d_wingless_1_1: -5644904464730131781
+      edited_nexus_2d_wingless_1_10: -2645437225986973630
+      edited_nexus_2d_wingless_1_11: -8293563334020698846
+      edited_nexus_2d_wingless_1_12: 2532837932768926295
+      edited_nexus_2d_wingless_1_13: 3362485032242767106
+      edited_nexus_2d_wingless_1_14: -8811905510406905088
+      edited_nexus_2d_wingless_1_15: -2333294943106463287
+      edited_nexus_2d_wingless_1_16: -4697179154712893978
+      edited_nexus_2d_wingless_1_17: 7396773897699167222
+      edited_nexus_2d_wingless_1_18: 786719931554663325
+      edited_nexus_2d_wingless_1_19: -3316491902084384369
+      edited_nexus_2d_wingless_1_2: 3625921184691396159
+      edited_nexus_2d_wingless_1_20: 2936212436672993953
+      edited_nexus_2d_wingless_1_21: -2507169168281807598
+      edited_nexus_2d_wingless_1_22: -439117431516158379
+      edited_nexus_2d_wingless_1_23: -3938772811060602801
+      edited_nexus_2d_wingless_1_24: 7193183669576923136
+      edited_nexus_2d_wingless_1_25: -6909801404026590351
+      edited_nexus_2d_wingless_1_26: 865043050628603865
+      edited_nexus_2d_wingless_1_27: 1480610366138574363
+      edited_nexus_2d_wingless_1_28: 7050077986955332153
+      edited_nexus_2d_wingless_1_29: -3517044943260077866
+      edited_nexus_2d_wingless_1_3: 6115781009553983673
+      edited_nexus_2d_wingless_1_30: -2645824521709623818
+      edited_nexus_2d_wingless_1_31: 7846761922576207131
+      edited_nexus_2d_wingless_1_32: -646704993138953015
+      edited_nexus_2d_wingless_1_33: 5146202606054082427
+      edited_nexus_2d_wingless_1_34: -80872158755587193
+      edited_nexus_2d_wingless_1_35: 1630338365880363050
+      edited_nexus_2d_wingless_1_36: 7791272291701246330
+      edited_nexus_2d_wingless_1_37: 19853739704160826
+      edited_nexus_2d_wingless_1_38: 3177160546829388387
+      edited_nexus_2d_wingless_1_39: 7947903184407564986
+      edited_nexus_2d_wingless_1_4: 8194169039783964754
+      edited_nexus_2d_wingless_1_40: -4891432304568893164
+      edited_nexus_2d_wingless_1_41: 6925496829663374574
+      edited_nexus_2d_wingless_1_42: 4386006342965798597
+      edited_nexus_2d_wingless_1_43: -5809312919204622883
+      edited_nexus_2d_wingless_1_44: 9163524646938511670
+      edited_nexus_2d_wingless_1_45: 8985490019305756701
+      edited_nexus_2d_wingless_1_46: -6325786387711548245
+      edited_nexus_2d_wingless_1_47: 3773403738057123177
+      edited_nexus_2d_wingless_1_48: -9214478496141379312
+      edited_nexus_2d_wingless_1_49: 5533350873275746050
+      edited_nexus_2d_wingless_1_5: 9052215102957727710
+      edited_nexus_2d_wingless_1_50: 1972776905478592910
+      edited_nexus_2d_wingless_1_51: 8402170568161542680
+      edited_nexus_2d_wingless_1_52: 8145493832935463804
+      edited_nexus_2d_wingless_1_6: 5369404492845717787
+      edited_nexus_2d_wingless_1_7: -5719863851221945551
+      edited_nexus_2d_wingless_1_8: 3816249308787636220
+      edited_nexus_2d_wingless_1_9: 6933855317188487006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

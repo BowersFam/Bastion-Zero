@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 606801cde1b9d7e4d80bd303dc073e02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6791482845117485217
+    second: talos_3d_0
+  - first:
+      213: 8339579821645331475
+    second: talos_3d_1
+  - first:
+      213: 2408043543064437239
+    second: talos_3d_2
+  - first:
+      213: 3117953619281279453
+    second: talos_3d_3
+  - first:
+      213: -4554957080359058368
+    second: talos_3d_4
+  - first:
+      213: -1852538476813279533
+    second: talos_3d_5
+  - first:
+      213: 6471350615036490954
+    second: talos_3d_6
+  - first:
+      213: -7608861201537802992
+    second: talos_3d_7
+  - first:
+      213: 4435575069582798716
+    second: talos_3d_8
+  - first:
+      213: 4121756260745641629
+    second: talos_3d_9
+  - first:
+      213: 9158556302146760728
+    second: talos_3d_10
+  - first:
+      213: -4591925106647917919
+    second: talos_3d_11
+  - first:
+      213: -8910062885693203912
+    second: talos_3d_12
+  - first:
+      213: -3503777640088378938
+    second: talos_3d_13
+  - first:
+      213: -5811375504294351103
+    second: talos_3d_14
+  - first:
+      213: -4686626085743576117
+    second: talos_3d_15
+  - first:
+      213: 8455187811516447025
+    second: talos_3d_16
+  - first:
+      213: -4985889283205839005
+    second: talos_3d_17
+  - first:
+      213: 4409018481814948391
+    second: talos_3d_18
+  - first:
+      213: 8052941910487202472
+    second: talos_3d_19
+  - first:
+      213: 6848530507054625443
+    second: talos_3d_20
+  - first:
+      213: -268342259798112154
+    second: talos_3d_21
+  - first:
+      213: -512854078268081930
+    second: talos_3d_22
+  - first:
+      213: 6237125186801624328
+    second: talos_3d_23
+  - first:
+      213: 4046829582140749332
+    second: talos_3d_24
+  - first:
+      213: -180345266561536069
+    second: talos_3d_25
+  - first:
+      213: -4274152081519348170
+    second: talos_3d_26
+  - first:
+      213: 5051803575508208933
+    second: talos_3d_27
+  - first:
+      213: -340062520437509212
+    second: talos_3d_28
+  - first:
+      213: 3288808559532146609
+    second: talos_3d_29
+  - first:
+      213: 8831375134312870034
+    second: talos_3d_30
+  - first:
+      213: 67997478468484407
+    second: talos_3d_31
+  - first:
+      213: 5114301605353609859
+    second: talos_3d_32
+  - first:
+      213: 6070621815271395583
+    second: talos_3d_33
+  - first:
+      213: 5051562902567839157
+    second: talos_3d_34
+  - first:
+      213: 8478963844132490161
+    second: talos_3d_35
+  - first:
+      213: 8804151731337142571
+    second: talos_3d_36
+  - first:
+      213: 6158024582998540584
+    second: talos_3d_37
+  - first:
+      213: -1079441385874429807
+    second: talos_3d_38
+  - first:
+      213: -2561443312029373556
+    second: talos_3d_39
+  - first:
+      213: 886832075264532746
+    second: talos_3d_40
+  - first:
+      213: -4224409878544940928
+    second: talos_3d_41
+  - first:
+      213: -8958088235595731278
+    second: talos_3d_42
+  - first:
+      213: -875303260987283850
+    second: talos_3d_43
+  - first:
+      213: -2628767951178325262
+    second: talos_3d_44
+  - first:
+      213: 8492866304706897503
+    second: talos_3d_45
+  - first:
+      213: 5026904820540238090
+    second: talos_3d_46
+  - first:
+      213: -6072164095416798667
+    second: talos_3d_47
+  - first:
+      213: -6916287860489542523
+    second: talos_3d_48
+  - first:
+      213: -7709064397598788145
+    second: talos_3d_49
+  - first:
+      213: -938384266307208065
+    second: talos_3d_50
+  - first:
+      213: 1440383808554917549
+    second: talos_3d_51
+  - first:
+      213: 7631148566311160681
+    second: talos_3d_52
+  - first:
+      213: 4534946957455616742
+    second: talos_3d_53
+  - first:
+      213: -1058527659111161917
+    second: talos_3d_54
+  - first:
+      213: -1194039125666740970
+    second: talos_3d_55
+  - first:
+      213: 178411740920886670
+    second: talos_3d_56
+  - first:
+      213: -8889083544689012818
+    second: talos_3d_57
+  - first:
+      213: 6471029176581741655
+    second: talos_3d_58
+  - first:
+      213: -4639553217960162694
+    second: talos_3d_59
+  - first:
+      213: 6252789481656359372
+    second: talos_3d_60
+  - first:
+      213: -1708570952866312717
+    second: talos_3d_61
+  - first:
+      213: 1030556357927522688
+    second: talos_3d_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: talos_3d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1874
+        width: 361
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a013613aa1304e50800000000000000
+      internalID: 6791482845117485217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1693
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7f2da9a32cb370800000000000000
+      internalID: 8339579821645331475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1899
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1670418d61b6120800000000000000
+      internalID: 2408043543064437239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1895
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9776f0c42354b20800000000000000
+      internalID: 3117953619281279453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1689
+        width: 190
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0444c0a2baa89c0c0800000000000000
+      internalID: -4554957080359058368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1860
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1dcc02167a46e0800000000000000
+      internalID: -1852538476813279533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1893
+        width: 198
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac47142091bdec950800000000000000
+      internalID: 6471350615036490954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1699
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5619fc05e76690800000000000000
+      internalID: -7608861201537802992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1899
+        width: 171
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7faf0d66045e8d30800000000000000
+      internalID: 4435575069582798716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1715
+        width: 177
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7c7c2b7b633930800000000000000
+      internalID: 4121756260745641629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1707
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8107fd4ce6ab91f70800000000000000
+      internalID: 9158556302146760728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1713
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa9d0fc1743640c0800000000000000
+      internalID: -4591925106647917919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1693
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a5dd35309195480800000000000000
+      internalID: -8910062885693203912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1516
+        width: 386
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c16396dcc4106fc0800000000000000
+      internalID: -3503777640088378938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1701
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe022d4c8d95fa0800000000000000
+      internalID: -5811375504294351103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1699
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbc24e762c5feb0800000000000000
+      internalID: -4686626085743576117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 375
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13976ae548cd65570800000000000000
+      internalID: 8455187811516447025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1514
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c6110d109ecab0800000000000000
+      internalID: -4985889283205839005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1276
+        width: 222
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a46b003faff2d30800000000000000
+      internalID: 4409018481814948391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_19
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1387
+        width: 183
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf173500cc1cf60800000000000000
+      internalID: 8052941910487202472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 186
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ba6a063eda0f50800000000000000
+      internalID: 6848530507054625443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1159
+        width: 194
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668028ee228a64cf0800000000000000
+      internalID: -268342259798112154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1335
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8783bdee9f1e8f0800000000000000
+      internalID: -512854078268081930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1322
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e3facf48be8650800000000000000
+      internalID: 6237125186801624328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1119
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416ba0e501a392830800000000000000
+      internalID: 4046829582140749332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1306
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2da18fe84f7df0800000000000000
+      internalID: -180345266561536069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1296
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636fa09c3592fa4c0800000000000000
+      internalID: -4274152081519348170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0739169c9b1640800000000000000
+      internalID: 5051803575508208933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1133
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f5eb70fad74bf0800000000000000
+      internalID: -340062520437509212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1097
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7d25c5f134ad20800000000000000
+      internalID: 3288808559532146609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1085
+        width: 196
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290bfeed4e85f8a70800000000000000
+      internalID: 8831375134312870034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1121
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d7cbda85391f000800000000000000
+      internalID: 67997478468484407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38adf4d9636a9f640800000000000000
+      internalID: 5114301605353609859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01df0a06e2f3450800000000000000
+      internalID: 6070621815271395583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1101
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5e81012b1ca1640800000000000000
+      internalID: 5051562902567839157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 920
+        width: 185
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc5e851b45ba570800000000000000
+      internalID: 8478963844132490161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 905
+        width: 392
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21adfe6a51ae2a70800000000000000
+      internalID: 8804151731337142571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_37
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1075
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82140cb4bb2b57550800000000000000
+      internalID: 6158024582998540584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_38
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1071
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198691757cd0501f0800000000000000
+      internalID: -1079441385874429807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 714
+        width: 168
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b603af0ece37cd0800000000000000
+      internalID: -2561443312029373556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 924
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01a095e219ae4c00800000000000000
+      internalID: 886832075264532746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 924
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0808dabe891ef55c0800000000000000
+      internalID: -4224409878544940928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 912
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bee5b2363a7ea380800000000000000
+      internalID: -8958088235595731278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 737
+        width: 181
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ac1a525c4ad3f0800000000000000
+      internalID: -875303260987283850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_44
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 831
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a519e97db48bd0800000000000000
+      internalID: -2628767951178325262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_45
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 737
+        width: 202
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5660f038e8bcd570800000000000000
+      internalID: 8492866304706897503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 836
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09eff3fc4723c540800000000000000
+      internalID: 5026904820540238090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_47
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 754
+        width: 174
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fcca4de65bbba0800000000000000
+      internalID: -6072164095416798667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ac2fb5d86400a0800000000000000
+      internalID: -6916287860489542523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 765
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5738656c6e30590800000000000000
+      internalID: -7709064397598788145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_50
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 762
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c71f74b703af2f0800000000000000
+      internalID: -938384266307208065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 742
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed32141754df310800000000000000
+      internalID: 1440383808554917549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 543
+        width: 581
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4533803947e960800000000000000
+      internalID: 7631148566311160681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea616a0b3e5fee30800000000000000
+      internalID: 4534946957455616742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 559
+        width: 161
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd0cdc3ba5f41f0800000000000000
+      internalID: -1058527659111161917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61547b2ddbbed6fe0800000000000000
+      internalID: -1194039125666740970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 553
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8539597888d97200800000000000000
+      internalID: 178411740920886670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 389
+        width: 188
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8a0ccc91a3a480800000000000000
+      internalID: -8889083544689012818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 386
+        width: 175
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd75940c6bdc950800000000000000
+      internalID: 6471029176581741655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 196
+        width: 422
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac6fefdeefc9fb0800000000000000
+      internalID: -4639553217960162694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_60
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 219
+        width: 179
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc91d65a7ee56c650800000000000000
+      internalID: 6252789481656359372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4ad055cfe948e0800000000000000
+      internalID: -1708570952866312717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talos_3d_62
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 188
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815a432c854d4e00800000000000000
+      internalID: 1030556357927522688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      talos_3d_0: 6791482845117485217
+      talos_3d_1: 8339579821645331475
+      talos_3d_10: 9158556302146760728
+      talos_3d_11: -4591925106647917919
+      talos_3d_12: -8910062885693203912
+      talos_3d_13: -3503777640088378938
+      talos_3d_14: -5811375504294351103
+      talos_3d_15: -4686626085743576117
+      talos_3d_16: 8455187811516447025
+      talos_3d_17: -4985889283205839005
+      talos_3d_18: 4409018481814948391
+      talos_3d_19: 8052941910487202472
+      talos_3d_2: 2408043543064437239
+      talos_3d_20: 6848530507054625443
+      talos_3d_21: -268342259798112154
+      talos_3d_22: -512854078268081930
+      talos_3d_23: 6237125186801624328
+      talos_3d_24: 4046829582140749332
+      talos_3d_25: -180345266561536069
+      talos_3d_26: -4274152081519348170
+      talos_3d_27: 5051803575508208933
+      talos_3d_28: -340062520437509212
+      talos_3d_29: 3288808559532146609
+      talos_3d_3: 3117953619281279453
+      talos_3d_30: 8831375134312870034
+      talos_3d_31: 67997478468484407
+      talos_3d_32: 5114301605353609859
+      talos_3d_33: 6070621815271395583
+      talos_3d_34: 5051562902567839157
+      talos_3d_35: 8478963844132490161
+      talos_3d_36: 8804151731337142571
+      talos_3d_37: 6158024582998540584
+      talos_3d_38: -1079441385874429807
+      talos_3d_39: -2561443312029373556
+      talos_3d_4: -4554957080359058368
+      talos_3d_40: 886832075264532746
+      talos_3d_41: -4224409878544940928
+      talos_3d_42: -8958088235595731278
+      talos_3d_43: -875303260987283850
+      talos_3d_44: -2628767951178325262
+      talos_3d_45: 8492866304706897503
+      talos_3d_46: 5026904820540238090
+      talos_3d_47: -6072164095416798667
+      talos_3d_48: -6916287860489542523
+      talos_3d_49: -7709064397598788145
+      talos_3d_5: -1852538476813279533
+      talos_3d_50: -938384266307208065
+      talos_3d_51: 1440383808554917549
+      talos_3d_52: 7631148566311160681
+      talos_3d_53: 4534946957455616742
+      talos_3d_54: -1058527659111161917
+      talos_3d_55: -1194039125666740970
+      talos_3d_56: 178411740920886670
+      talos_3d_57: -8889083544689012818
+      talos_3d_58: 6471029176581741655
+      talos_3d_59: -4639553217960162694
+      talos_3d_6: 6471350615036490954
+      talos_3d_60: 6252789481656359372
+      talos_3d_61: -1708570952866312717
+      talos_3d_62: 1030556357927522688
+      talos_3d_7: -7608861201537802992
+      talos_3d_8: 4435575069582798716
+      talos_3d_9: 4121756260745641629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

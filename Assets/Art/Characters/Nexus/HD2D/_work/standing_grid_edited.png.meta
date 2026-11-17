@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: a9bc14399a886cc47848de4cde8fa982
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6997960402618803113
+    second: standing_grid_edited_0
+  - first:
+      213: -4704377911959755997
+    second: standing_grid_edited_1
+  - first:
+      213: -4374104749359221382
+    second: standing_grid_edited_2
+  - first:
+      213: -4688436049529893729
+    second: standing_grid_edited_3
+  - first:
+      213: 2479089531294561779
+    second: standing_grid_edited_4
+  - first:
+      213: -5110754755075675089
+    second: standing_grid_edited_5
+  - first:
+      213: -1252078708654224414
+    second: standing_grid_edited_6
+  - first:
+      213: 1741839157720866846
+    second: standing_grid_edited_7
+  - first:
+      213: -2498408223432044927
+    second: standing_grid_edited_8
+  - first:
+      213: -3005287919937916247
+    second: standing_grid_edited_9
+  - first:
+      213: 7369500626889050015
+    second: standing_grid_edited_10
+  - first:
+      213: -2332885200522747046
+    second: standing_grid_edited_11
+  - first:
+      213: -4024461260698507031
+    second: standing_grid_edited_12
+  - first:
+      213: -8128754331285695677
+    second: standing_grid_edited_13
+  - first:
+      213: -8003373737649948488
+    second: standing_grid_edited_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: standing_grid_edited_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 517
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e75ec8efbd1160800000000000000
+      internalID: 6997960402618803113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 828
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e174c631b6beb0800000000000000
+      internalID: -4704377911959755997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 773
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75381cc7ee0c43c0800000000000000
+      internalID: -4374104749359221382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 407
+        width: 497
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c82abd0445feeb0800000000000000
+      internalID: -4688436049529893729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 689
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b33f3bce776220800000000000000
+      internalID: 2479089531294561779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 593
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6391d0a3f219b0800000000000000
+      internalID: -5110754755075675089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 602
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc5db5c09bf9ee0800000000000000
+      internalID: -1252078708654224414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 511
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1061db3c714c2810800000000000000
+      internalID: 1741839157720866846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0b6a35fed35dd0800000000000000
+      internalID: -2498408223432044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 369
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f35c3f821b46d0800000000000000
+      internalID: -3005287919937916247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 425
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978dbd56c9b54660800000000000000
+      internalID: 7369500626889050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 363
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a536311354def9fd0800000000000000
+      internalID: -2332885200522747046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 271
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8aebf4ecd3628c0800000000000000
+      internalID: -4024461260698507031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 229
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3435c41f00dd03f80800000000000000
+      internalID: -8128754331285695677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standing_grid_edited_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 143
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b83fa24dfd4ee090800000000000000
+      internalID: -8003373737649948488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      standing_grid_edited_0: 6997960402618803113
+      standing_grid_edited_1: -4704377911959755997
+      standing_grid_edited_10: 7369500626889050015
+      standing_grid_edited_11: -2332885200522747046
+      standing_grid_edited_12: -4024461260698507031
+      standing_grid_edited_13: -8128754331285695677
+      standing_grid_edited_14: -8003373737649948488
+      standing_grid_edited_2: -4374104749359221382
+      standing_grid_edited_3: -4688436049529893729
+      standing_grid_edited_4: 2479089531294561779
+      standing_grid_edited_5: -5110754755075675089
+      standing_grid_edited_6: -1252078708654224414
+      standing_grid_edited_7: 1741839157720866846
+      standing_grid_edited_8: -2498408223432044927
+      standing_grid_edited_9: -3005287919937916247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

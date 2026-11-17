@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85dd36a2c15a5ca46a0f7801df0cefb7, type: 3}
+  m_Name: DamageTuning
+  m_EditorClassIdentifier: Assembly-CSharp::BastionZero.Damage.DamageTuning
+  CD_01_CollisionBoxWidth: 0.75
+  CD_02_CollisionBoxHeight: 1.75
+  CD_04_HurtboxWidth: 0.5
+  CD_05_HurtboxHeight: 1.375
+  CD_07_HazardInset: 0.125
+  CD_08_ContactHitboxInset: 0.125
+  CD_17_StartHP: 5
+  CD_18_MaxHP: 10
+  CD_19_DLightPips: 1
+  CD_20_DHeavyPips: 2
+  CD_21_DHazardPips: 3
+  CD_41_DPitPips: 2
+  CD_22_DamageReduction: 0
+  CD_23_MinDamagePerHit: 1
+  CD_24_PostHitIFrames: 1
+  CD_25_HazardReHitLockout: 0.5
+  CD_26_ContactRearm: 0.016666668
+  CD_27_KnockbackHoldFraction: 0.5
+  CD_28_KnockbackTieZone: 0.25
+  CD_S49_KnockbackDuration: 0.25
+  CD_S50_KnockbackHorizontal: 7
+  CD_S50_KnockbackUp: 9
+  CD_29_WarpArrivalIFrames: 1
+  CD_30_DeathD1Freeze: 0.15
+  CD_31_DeathD2Animation: 0.8
+  CD_32_DeathD3Fade: 0.4
+  CD_33_RespawnFullHP: 1
+  CD_34_RespawnGraceIFrames: 1.5
+  CD_42_PitWarpFade: 0.4
+  CD_37_IFrameFlickerHz: 15
+  CD_38_LowHealthPips: 1
+  changeLog: "v0 \u2014 created from spec v3.2 (06-collision-damage.md). No [estimated]
+    value has been retuned yet."

@@ -1,0 +1,7546 @@
+[
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/nexus_2d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          21,
+          32,
+          171,
+          172
+        ],
+        "occupancy": 0.3641,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          23,
+          31,
+          171,
+          172
+        ],
+        "occupancy": 0.36309,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49976
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          22,
+          25,
+          171,
+          172
+        ],
+        "occupancy": 0.37169,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5354
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          22,
+          32,
+          171,
+          172
+        ],
+        "occupancy": 0.35833,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52026
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          19,
+          42,
+          177,
+          175
+        ],
+        "occupancy": 0.32681,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          19,
+          37,
+          182,
+          176
+        ],
+        "occupancy": 0.32463,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52881
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          24,
+          40,
+          182,
+          174
+        ],
+        "occupancy": 0.31508,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50342
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          30,
+          35,
+          180,
+          174
+        ],
+        "occupancy": 0.31071,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53296
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          12,
+          47,
+          173,
+          176
+        ],
+        "occupancy": 0.31441,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          12,
+          44,
+          181,
+          176
+        ],
+        "occupancy": 0.3146,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54346
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          10,
+          55,
+          177,
+          176
+        ],
+        "occupancy": 0.3213,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5647
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          14,
+          43,
+          181,
+          158
+        ],
+        "occupancy": 0.30092,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53931
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          13,
+          69,
+          175,
+          183
+        ],
+        "occupancy": 0.29686,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          11,
+          48,
+          180,
+          182
+        ],
+        "occupancy": 0.30523,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55615
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          15,
+          26,
+          182,
+          162
+        ],
+        "occupancy": 0.29529,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56055
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          13,
+          10,
+          182,
+          136
+        ],
+        "occupancy": 0.28616,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50391
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          12,
+          33,
+          179,
+          159
+        ],
+        "occupancy": 0.28124,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          14,
+          50,
+          180,
+          183
+        ],
+        "occupancy": 0.31435,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55322
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          15,
+          69,
+          178,
+          189
+        ],
+        "occupancy": 0.30027,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54907
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          17,
+          91,
+          179,
+          189
+        ],
+        "occupancy": 0.27354,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49243
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          13,
+          42,
+          160,
+          184
+        ],
+        "occupancy": 0.33638,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          19,
+          70,
+          177,
+          184
+        ],
+        "occupancy": 0.29588,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51904
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          18,
+          0,
+          174,
+          189
+        ],
+        "occupancy": 0.26301,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47607
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          11,
+          0,
+          182,
+          189
+        ],
+        "occupancy": 0.20022,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.42163
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          13,
+          62,
+          154,
+          189
+        ],
+        "occupancy": 0.32071,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          9,
+          58,
+          166,
+          189
+        ],
+        "occupancy": 0.33773,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51953
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          13,
+          0,
+          176,
+          189
+        ],
+        "occupancy": 0.32575,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55957
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          15,
+          0,
+          180,
+          189
+        ],
+        "occupancy": 0.33205,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51392
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          12,
+          0,
+          155,
+          173
+        ],
+        "occupancy": 0.29574,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          10,
+          0,
+          184,
+          173
+        ],
+        "occupancy": 0.35973,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.64404
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          17,
+          0,
+          189,
+          172
+        ],
+        "occupancy": 0.27578,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.66797
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          23,
+          0,
+          181,
+          173
+        ],
+        "occupancy": 0.2641,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52173
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          20,
+          45,
+          139,
+          162
+        ],
+        "occupancy": 0.25234,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          9,
+          46,
+          182,
+          162
+        ],
+        "occupancy": 0.27757,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50806
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          10,
+          50,
+          189,
+          162
+        ],
+        "occupancy": 0.2821,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48633
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          0,
+          46,
+          176,
+          162
+        ],
+        "occupancy": 0.27841,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49487
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          13,
+          39,
+          167,
+          157
+        ],
+        "occupancy": 0.33473,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          8,
+          33,
+          184,
+          162
+        ],
+        "occupancy": 0.3863,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.65894
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          10,
+          35,
+          189,
+          160
+        ],
+        "occupancy": 0.30408,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6543
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          0,
+          38,
+          176,
+          160
+        ],
+        "occupancy": 0.3029,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60156
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          22,
+          3,
+          159,
+          152
+        ],
+        "occupancy": 0.28591,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          7,
+          42,
+          181,
+          155
+        ],
+        "occupancy": 0.26987,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48364
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          9,
+          47,
+          179,
+          156
+        ],
+        "occupancy": 0.25444,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51099
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          8,
+          47,
+          182,
+          155
+        ],
+        "occupancy": 0.25066,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50049
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/nexus_3d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          17,
+          26,
+          160,
+          182
+        ],
+        "occupancy": 0.40503,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          23,
+          25,
+          163,
+          182
+        ],
+        "occupancy": 0.40542,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5437
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          30,
+          25,
+          165,
+          182
+        ],
+        "occupancy": 0.40032,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55005
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          35,
+          30,
+          171,
+          182
+        ],
+        "occupancy": 0.37687,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52979
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          11,
+          39,
+          163,
+          186
+        ],
+        "occupancy": 0.3865,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          15,
+          38,
+          174,
+          186
+        ],
+        "occupancy": 0.37715,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55493
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          21,
+          38,
+          181,
+          186
+        ],
+        "occupancy": 0.3924,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53149
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          27,
+          38,
+          185,
+          176
+        ],
+        "occupancy": 0.35273,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55127
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          12,
+          46,
+          157,
+          180
+        ],
+        "occupancy": 0.35299,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          13,
+          46,
+          170,
+          187
+        ],
+        "occupancy": 0.35931,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53687
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          26,
+          53,
+          166,
+          187
+        ],
+        "occupancy": 0.33017,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54224
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          26,
+          42,
+          185,
+          170
+        ],
+        "occupancy": 0.33003,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5105
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          15,
+          78,
+          156,
+          189
+        ],
+        "occupancy": 0.29691,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          17,
+          62,
+          165,
+          189
+        ],
+        "occupancy": 0.31472,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.46069
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          23,
+          42,
+          172,
+          173
+        ],
+        "occupancy": 0.3176,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50269
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          26,
+          21,
+          180,
+          153
+        ],
+        "occupancy": 0.29873,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52954
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          13,
+          0,
+          161,
+          161
+        ],
+        "occupancy": 0.28801,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          17,
+          0,
+          161,
+          183
+        ],
+        "occupancy": 0.30912,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49512
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          25,
+          67,
+          172,
+          189
+        ],
+        "occupancy": 0.32281,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50659
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          27,
+          83,
+          170,
+          189
+        ],
+        "occupancy": 0.30142,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.45483
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          15,
+          25,
+          170,
+          164
+        ],
+        "occupancy": 0.33207,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          22,
+          58,
+          156,
+          180
+        ],
+        "occupancy": 0.31556,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56323
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          15,
+          0,
+          174,
+          182
+        ],
+        "occupancy": 0.27788,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5249
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          13,
+          0,
+          183,
+          181
+        ],
+        "occupancy": 0.23891,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.42456
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          19,
+          37,
+          170,
+          182
+        ],
+        "occupancy": 0.34783,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          12,
+          39,
+          173,
+          183
+        ],
+        "occupancy": 0.36432,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55518
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          20,
+          45,
+          181,
+          185
+        ],
+        "occupancy": 0.3414,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56543
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          28,
+          51,
+          177,
+          185
+        ],
+        "occupancy": 0.3141,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50171
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          17,
+          40,
+          149,
+          168
+        ],
+        "occupancy": 0.30873,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          15,
+          21,
+          173,
+          169
+        ],
+        "occupancy": 0.33784,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54736
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          14,
+          37,
+          189,
+          169
+        ],
+        "occupancy": 0.33342,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58057
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          0,
+          43,
+          169,
+          169
+        ],
+        "occupancy": 0.30357,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56079
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          17,
+          25,
+          136,
+          153
+        ],
+        "occupancy": 0.30083,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          11,
+          30,
+          179,
+          189
+        ],
+        "occupancy": 0.323,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50854
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          10,
+          32,
+          189,
+          153
+        ],
+        "occupancy": 0.31153,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.4873
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          0,
+          29,
+          171,
+          153
+        ],
+        "occupancy": 0.29596,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48169
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          17,
+          6,
+          165,
+          189
+        ],
+        "occupancy": 0.34719,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          17,
+          0,
+          167,
+          147
+        ],
+        "occupancy": 0.34008,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53125
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          8,
+          17,
+          174,
+          149
+        ],
+        "occupancy": 0.35844,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54858
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          23,
+          24,
+          181,
+          149
+        ],
+        "occupancy": 0.32815,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5564
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          15,
+          0,
+          165,
+          152
+        ],
+        "occupancy": 0.3218,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          4,
+          31,
+          180,
+          149
+        ],
+        "occupancy": 0.2809,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48389
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          18,
+          38,
+          181,
+          152
+        ],
+        "occupancy": 0.27396,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52661
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          16,
+          37,
+          184,
+          156
+        ],
+        "occupancy": 0.26858,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.46582
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/talos_2d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          11,
+          29,
+          162,
+          176
+        ],
+        "occupancy": 0.38957,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          12,
+          20,
+          167,
+          176
+        ],
+        "occupancy": 0.40844,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58154
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          13,
+          20,
+          166,
+          176
+        ],
+        "occupancy": 0.4001,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59253
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          17,
+          31,
+          170,
+          176
+        ],
+        "occupancy": 0.38985,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56323
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          10,
+          36,
+          158,
+          178
+        ],
+        "occupancy": 0.37281,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          11,
+          36,
+          163,
+          177
+        ],
+        "occupancy": 0.36835,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5813
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          12,
+          31,
+          170,
+          175
+        ],
+        "occupancy": 0.36841,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57568
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          25,
+          35,
+          178,
+          176
+        ],
+        "occupancy": 0.35481,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61548
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          10,
+          45,
+          172,
+          170
+        ],
+        "occupancy": 0.33899,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          8,
+          35,
+          178,
+          170
+        ],
+        "occupancy": 0.34596,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59399
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          13,
+          38,
+          173,
+          168
+        ],
+        "occupancy": 0.33115,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55005
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          11,
+          29,
+          188,
+          189
+        ],
+        "occupancy": 0.35847,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60718
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          11,
+          65,
+          166,
+          177
+        ],
+        "occupancy": 0.31749,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          12,
+          33,
+          167,
+          178
+        ],
+        "occupancy": 0.35416,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.64893
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          18,
+          9,
+          170,
+          156
+        ],
+        "occupancy": 0.34921,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.65381
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          21,
+          0,
+          172,
+          137
+        ],
+        "occupancy": 0.32603,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.62256
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          16,
+          21,
+          164,
+          154
+        ],
+        "occupancy": 0.31458,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          18,
+          42,
+          168,
+          183
+        ],
+        "occupancy": 0.33359,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6438
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          15,
+          69,
+          170,
+          189
+        ],
+        "occupancy": 0.33415,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.64355
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          15,
+          92,
+          175,
+          189
+        ],
+        "occupancy": 0.2762,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48926
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          11,
+          27,
+          166,
+          187
+        ],
+        "occupancy": 0.43199,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          4,
+          59,
+          177,
+          189
+        ],
+        "occupancy": 0.37675,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.72266
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          6,
+          0,
+          183,
+          189
+        ],
+        "occupancy": 0.31091,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.63354
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          5,
+          0,
+          186,
+          189
+        ],
+        "occupancy": 0.2407,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.46851
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          10,
+          41,
+          162,
+          189
+        ],
+        "occupancy": 0.42177,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          9,
+          0,
+          162,
+          189
+        ],
+        "occupancy": 0.39685,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.68018
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          7,
+          0,
+          182,
+          189
+        ],
+        "occupancy": 0.38812,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.72681
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          13,
+          0,
+          183,
+          189
+        ],
+        "occupancy": 0.36421,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.63501
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          16,
+          0,
+          162,
+          182
+        ],
+        "occupancy": 0.37933,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          9,
+          0,
+          189,
+          183
+        ],
+        "occupancy": 0.35643,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.71313
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          0,
+          0,
+          186,
+          182
+        ],
+        "occupancy": 0.32863,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.66333
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          17,
+          0,
+          166,
+          182
+        ],
+        "occupancy": 0.33269,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61377
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          14,
+          25,
+          154,
+          168
+        ],
+        "occupancy": 0.37656,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          3,
+          34,
+          185,
+          166
+        ],
+        "occupancy": 0.39501,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.67944
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          6,
+          42,
+          183,
+          176
+        ],
+        "occupancy": 0.40298,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.66675
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          11,
+          38,
+          158,
+          168
+        ],
+        "occupancy": 0.34487,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.66797
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          12,
+          16,
+          159,
+          189
+        ],
+        "occupancy": 0.38563,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          3,
+          23,
+          189,
+          161
+        ],
+        "occupancy": 0.42678,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.69727
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          0,
+          27,
+          187,
+          161
+        ],
+        "occupancy": 0.40237,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.71582
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          13,
+          25,
+          171,
+          161
+        ],
+        "occupancy": 0.38417,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.65649
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          18,
+          0,
+          162,
+          166
+        ],
+        "occupancy": 0.37647,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          14,
+          2,
+          165,
+          167
+        ],
+        "occupancy": 0.37017,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60034
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          12,
+          24,
+          170,
+          171
+        ],
+        "occupancy": 0.35794,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.65991
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          20,
+          18,
+          170,
+          169
+        ],
+        "occupancy": 0.3608,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57178
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/talos_3d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          10,
+          13,
+          167,
+          163
+        ],
+        "occupancy": 0.42384,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          10,
+          13,
+          168,
+          163
+        ],
+        "occupancy": 0.42331,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54517
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          11,
+          11,
+          169,
+          163
+        ],
+        "occupancy": 0.42558,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55347
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          14,
+          14,
+          171,
+          163
+        ],
+        "occupancy": 0.42272,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55151
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          9,
+          24,
+          173,
+          165
+        ],
+        "occupancy": 0.40055,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          9,
+          21,
+          168,
+          166
+        ],
+        "occupancy": 0.39022,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54126
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          10,
+          19,
+          170,
+          167
+        ],
+        "occupancy": 0.39237,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53589
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          16,
+          20,
+          172,
+          166
+        ],
+        "occupancy": 0.37692,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51636
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          11,
+          34,
+          176,
+          155
+        ],
+        "occupancy": 0.32586,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          9,
+          30,
+          181,
+          154
+        ],
+        "occupancy": 0.33762,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50171
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          14,
+          32,
+          181,
+          155
+        ],
+        "occupancy": 0.32029,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.4646
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          14,
+          17,
+          186,
+          189
+        ],
+        "occupancy": 0.31892,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51782
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          10,
+          48,
+          173,
+          171
+        ],
+        "occupancy": 0.36371,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          18,
+          23,
+          162,
+          162
+        ],
+        "occupancy": 0.35153,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58911
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          29,
+          9,
+          178,
+          141
+        ],
+        "occupancy": 0.32846,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57104
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          24,
+          0,
+          176,
+          119
+        ],
+        "occupancy": 0.31743,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53027
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          17,
+          7,
+          168,
+          144
+        ],
+        "occupancy": 0.33627,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          22,
+          27,
+          167,
+          169
+        ],
+        "occupancy": 0.34753,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60254
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          20,
+          51,
+          167,
+          184
+        ],
+        "occupancy": 0.35763,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58594
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          12,
+          78,
+          172,
+          188
+        ],
+        "occupancy": 0.3192,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51904
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          14,
+          17,
+          167,
+          160
+        ],
+        "occupancy": 0.3849,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          12,
+          42,
+          189,
+          169
+        ],
+        "occupancy": 0.3517,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.62598
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          0,
+          71,
+          189,
+          172
+        ],
+        "occupancy": 0.29162,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54199
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          0,
+          104,
+          178,
+          173
+        ],
+        "occupancy": 0.22301,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.45435
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          20,
+          32,
+          169,
+          179
+        ],
+        "occupancy": 0.37695,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          15,
+          42,
+          167,
+          179
+        ],
+        "occupancy": 0.37264,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5896
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          15,
+          47,
+          174,
+          179
+        ],
+        "occupancy": 0.36525,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56543
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          15,
+          52,
+          171,
+          179
+        ],
+        "occupancy": 0.33927,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.4917
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          10,
+          48,
+          189,
+          178
+        ],
+        "occupancy": 0.35956,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          0,
+          47,
+          185,
+          178
+        ],
+        "occupancy": 0.36684,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57568
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          2,
+          49,
+          189,
+          178
+        ],
+        "occupancy": 0.36852,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57642
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          0,
+          51,
+          169,
+          178
+        ],
+        "occupancy": 0.36175,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53564
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          13,
+          31,
+          173,
+          168
+        ],
+        "occupancy": 0.3641,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          11,
+          32,
+          180,
+          168
+        ],
+        "occupancy": 0.32477,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53198
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          26,
+          37,
+          189,
+          167
+        ],
+        "occupancy": 0.32664,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5293
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          0,
+          36,
+          174,
+          167
+        ],
+        "occupancy": 0.365,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53296
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          10,
+          10,
+          159,
+          189
+        ],
+        "occupancy": 0.41415,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          6,
+          10,
+          189,
+          189
+        ],
+        "occupancy": 0.38806,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61426
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          0,
+          22,
+          189,
+          152
+        ],
+        "occupancy": 0.41371,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61816
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          0,
+          14,
+          176,
+          153
+        ],
+        "occupancy": 0.40881,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61816
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          13,
+          0,
+          156,
+          168
+        ],
+        "occupancy": 0.42359,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          14,
+          0,
+          163,
+          158
+        ],
+        "occupancy": 0.40576,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56689
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          17,
+          8,
+          165,
+          163
+        ],
+        "occupancy": 0.39086,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57227
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          25,
+          0,
+          172,
+          159
+        ],
+        "occupancy": 0.39811,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55396
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/vesper_2d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          11,
+          39,
+          165,
+          162
+        ],
+        "occupancy": 0.34319,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          13,
+          35,
+          162,
+          161
+        ],
+        "occupancy": 0.3431,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48975
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          13,
+          33,
+          165,
+          161
+        ],
+        "occupancy": 0.34632,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.4751
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          12,
+          38,
+          166,
+          162
+        ],
+        "occupancy": 0.34333,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.46753
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          8,
+          43,
+          170,
+          163
+        ],
+        "occupancy": 0.32396,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          12,
+          43,
+          178,
+          162
+        ],
+        "occupancy": 0.32544,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51587
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          10,
+          42,
+          175,
+          162
+        ],
+        "occupancy": 0.31704,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53296
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          10,
+          45,
+          177,
+          161
+        ],
+        "occupancy": 0.326,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5105
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          8,
+          62,
+          178,
+          166
+        ],
+        "occupancy": 0.32239,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          7,
+          56,
+          178,
+          165
+        ],
+        "occupancy": 0.28384,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54395
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          11,
+          67,
+          181,
+          166
+        ],
+        "occupancy": 0.28896,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53174
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          10,
+          43,
+          179,
+          140
+        ],
+        "occupancy": 0.2685,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56641
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          12,
+          81,
+          174,
+          172
+        ],
+        "occupancy": 0.27748,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          12,
+          48,
+          170,
+          172
+        ],
+        "occupancy": 0.29014,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49731
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          11,
+          30,
+          169,
+          153
+        ],
+        "occupancy": 0.29308,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54614
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          19,
+          20,
+          170,
+          133
+        ],
+        "occupancy": 0.27776,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48975
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          16,
+          35,
+          166,
+          147
+        ],
+        "occupancy": 0.29056,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          15,
+          57,
+          167,
+          166
+        ],
+        "occupancy": 0.29974,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55493
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          13,
+          81,
+          173,
+          183
+        ],
+        "occupancy": 0.30635,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5813
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          10,
+          93,
+          173,
+          183
+        ],
+        "occupancy": 0.27908,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47412
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          8,
+          43,
+          164,
+          172
+        ],
+        "occupancy": 0.32801,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          6,
+          70,
+          165,
+          173
+        ],
+        "occupancy": 0.30934,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5874
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          5,
+          94,
+          171,
+          173
+        ],
+        "occupancy": 0.2615,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52637
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          3,
+          119,
+          181,
+          181
+        ],
+        "occupancy": 0.20083,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.44629
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          13,
+          49,
+          172,
+          168
+        ],
+        "occupancy": 0.30665,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          12,
+          42,
+          164,
+          168
+        ],
+        "occupancy": 0.32359,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53223
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          7,
+          58,
+          163,
+          170
+        ],
+        "occupancy": 0.31421,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54443
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          13,
+          60,
+          168,
+          170
+        ],
+        "occupancy": 0.31007,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47412
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          10,
+          50,
+          168,
+          165
+        ],
+        "occupancy": 0.30405,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          13,
+          41,
+          165,
+          164
+        ],
+        "occupancy": 0.30206,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52002
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          13,
+          49,
+          186,
+          164
+        ],
+        "occupancy": 0.31113,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5188
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          16,
+          55,
+          175,
+          164
+        ],
+        "occupancy": 0.29887,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51416
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          7,
+          59,
+          176,
+          155
+        ],
+        "occupancy": 0.29291,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          6,
+          47,
+          179,
+          154
+        ],
+        "occupancy": 0.31404,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49951
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          6,
+          61,
+          182,
+          154
+        ],
+        "occupancy": 0.29157,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49829
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          9,
+          45,
+          178,
+          154
+        ],
+        "occupancy": 0.3176,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47534
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          15,
+          6,
+          166,
+          157
+        ],
+        "occupancy": 0.38056,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          7,
+          8,
+          165,
+          157
+        ],
+        "occupancy": 0.43809,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6543
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          4,
+          62,
+          183,
+          157
+        ],
+        "occupancy": 0.32023,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6936
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          13,
+          49,
+          170,
+          158
+        ],
+        "occupancy": 0.31015,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50903
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          15,
+          2,
+          163,
+          160
+        ],
+        "occupancy": 0.34845,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          4,
+          52,
+          183,
+          144
+        ],
+        "occupancy": 0.25078,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56079
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          11,
+          57,
+          167,
+          168
+        ],
+        "occupancy": 0.25638,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52539
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          6,
+          56,
+          177,
+          143
+        ],
+        "occupancy": 0.22623,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.4856
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/vesper_3d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          14,
+          33,
+          165,
+          169
+        ],
+        "occupancy": 0.41987,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          11,
+          32,
+          163,
+          169
+        ],
+        "occupancy": 0.41116,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56519
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          12,
+          30,
+          166,
+          169
+        ],
+        "occupancy": 0.41261,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53735
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          13,
+          36,
+          167,
+          169
+        ],
+        "occupancy": 0.40903,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54834
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          11,
+          47,
+          168,
+          168
+        ],
+        "occupancy": 0.36953,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          8,
+          47,
+          178,
+          168
+        ],
+        "occupancy": 0.3795,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51733
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          8,
+          45,
+          175,
+          168
+        ],
+        "occupancy": 0.36178,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53052
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          7,
+          48,
+          176,
+          167
+        ],
+        "occupancy": 0.37379,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52563
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          10,
+          65,
+          174,
+          169
+        ],
+        "occupancy": 0.34316,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          7,
+          60,
+          177,
+          165
+        ],
+        "occupancy": 0.31539,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53833
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          8,
+          67,
+          179,
+          169
+        ],
+        "occupancy": 0.32701,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54102
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          7,
+          47,
+          179,
+          140
+        ],
+        "occupancy": 0.29952,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58521
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          15,
+          80,
+          169,
+          173
+        ],
+        "occupancy": 0.2938,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          12,
+          43,
+          167,
+          173
+        ],
+        "occupancy": 0.33664,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54663
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          11,
+          29,
+          167,
+          152
+        ],
+        "occupancy": 0.31413,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59399
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          17,
+          13,
+          169,
+          126
+        ],
+        "occupancy": 0.30369,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51196
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          22,
+          34,
+          163,
+          146
+        ],
+        "occupancy": 0.3043,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          13,
+          61,
+          169,
+          174
+        ],
+        "occupancy": 0.33641,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58105
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          10,
+          84,
+          170,
+          183
+        ],
+        "occupancy": 0.33034,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56714
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          10,
+          98,
+          171,
+          183
+        ],
+        "occupancy": 0.28655,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47021
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          13,
+          31,
+          165,
+          171
+        ],
+        "occupancy": 0.38322,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          7,
+          64,
+          164,
+          170
+        ],
+        "occupancy": 0.34406,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60034
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          4,
+          89,
+          169,
+          170
+        ],
+        "occupancy": 0.27866,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50513
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          3,
+          110,
+          178,
+          172
+        ],
+        "occupancy": 0.21374,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.41602
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          14,
+          34,
+          174,
+          164
+        ],
+        "occupancy": 0.36584,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          13,
+          27,
+          168,
+          164
+        ],
+        "occupancy": 0.38238,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58252
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          9,
+          46,
+          166,
+          162
+        ],
+        "occupancy": 0.36679,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58716
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          13,
+          46,
+          171,
+          164
+        ],
+        "occupancy": 0.35858,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53076
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          11,
+          42,
+          171,
+          162
+        ],
+        "occupancy": 0.34322,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          9,
+          31,
+          170,
+          162
+        ],
+        "occupancy": 0.35509,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54932
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          6,
+          54,
+          184,
+          161
+        ],
+        "occupancy": 0.34369,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54663
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          14,
+          51,
+          170,
+          162
+        ],
+        "occupancy": 0.33574,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.51978
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          13,
+          47,
+          166,
+          153
+        ],
+        "occupancy": 0.31589,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          7,
+          41,
+          189,
+          153
+        ],
+        "occupancy": 0.32642,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52173
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          0,
+          52,
+          178,
+          153
+        ],
+        "occupancy": 0.32586,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.52368
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          15,
+          46,
+          168,
+          153
+        ],
+        "occupancy": 0.31645,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50635
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          12,
+          45,
+          170,
+          155
+        ],
+        "occupancy": 0.32379,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          9,
+          6,
+          189,
+          156
+        ],
+        "occupancy": 0.47384,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.71362
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          0,
+          57,
+          175,
+          156
+        ],
+        "occupancy": 0.35889,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.74634
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          10,
+          45,
+          170,
+          156
+        ],
+        "occupancy": 0.34761,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54199
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          17,
+          3,
+          166,
+          160
+        ],
+        "occupancy": 0.3765,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          5,
+          45,
+          177,
+          142
+        ],
+        "occupancy": 0.27253,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59204
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          7,
+          61,
+          167,
+          167
+        ],
+        "occupancy": 0.30629,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56812
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          5,
+          56,
+          174,
+          145
+        ],
+        "occupancy": 0.25005,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5061
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/archon_2d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          13,
+          44,
+          183,
+          187
+        ],
+        "occupancy": 0.43011,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          15,
+          43,
+          183,
+          187
+        ],
+        "occupancy": 0.42591,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54199
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          16,
+          44,
+          182,
+          187
+        ],
+        "occupancy": 0.42219,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54663
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          17,
+          44,
+          182,
+          187
+        ],
+        "occupancy": 0.41609,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5564
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          9,
+          54,
+          183,
+          189
+        ],
+        "occupancy": 0.42275,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          13,
+          55,
+          184,
+          189
+        ],
+        "occupancy": 0.39982,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57446
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          12,
+          55,
+          188,
+          189
+        ],
+        "occupancy": 0.39923,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55664
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          12,
+          56,
+          189,
+          189
+        ],
+        "occupancy": 0.37454,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5542
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          9,
+          0,
+          184,
+          184
+        ],
+        "occupancy": 0.35679,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          9,
+          0,
+          184,
+          184
+        ],
+        "occupancy": 0.36807,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57959
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          9,
+          0,
+          189,
+          161
+        ],
+        "occupancy": 0.35671,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6394
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          0,
+          0,
+          185,
+          183
+        ],
+        "occupancy": 0.34064,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58691
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          16,
+          95,
+          177,
+          189
+        ],
+        "occupancy": 0.28468,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          19,
+          68,
+          180,
+          189
+        ],
+        "occupancy": 0.33493,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.47363
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          25,
+          46,
+          182,
+          189
+        ],
+        "occupancy": 0.36385,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54077
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          23,
+          27,
+          180,
+          165
+        ],
+        "occupancy": 0.36318,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58472
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          19,
+          0,
+          176,
+          183
+        ],
+        "occupancy": 0.40105,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          19,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.34047,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.63184
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          22,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.25668,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.48364
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          28,
+          122,
+          181,
+          189
+        ],
+        "occupancy": 0.1937,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.36084
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          8,
+          71,
+          156,
+          189
+        ],
+        "occupancy": 0.33179,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          4,
+          0,
+          160,
+          189
+        ],
+        "occupancy": 0.29593,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.46436
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          11,
+          0,
+          171,
+          189
+        ],
+        "occupancy": 0.31083,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53223
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          21,
+          0,
+          174,
+          189
+        ],
+        "occupancy": 0.22141,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.44507
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          8,
+          0,
+          172,
+          189
+        ],
+        "occupancy": 0.35584,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          4,
+          0,
+          172,
+          189
+        ],
+        "occupancy": 0.42574,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.62402
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          4,
+          0,
+          175,
+          189
+        ],
+        "occupancy": 0.38266,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.64258
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          7,
+          0,
+          180,
+          189
+        ],
+        "occupancy": 0.37513,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.50928
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          8,
+          0,
+          175,
+          189
+        ],
+        "occupancy": 0.36082,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          6,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.34543,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55981
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          0,
+          0,
+          184,
+          189
+        ],
+        "occupancy": 0.36746,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56934
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          10,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.38146,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57422
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          8,
+          0,
+          164,
+          189
+        ],
+        "occupancy": 0.42227,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          6,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.41869,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.67261
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          0,
+          0,
+          173,
+          189
+        ],
+        "occupancy": 0.39573,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.67358
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          15,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.38193,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57227
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          14,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.38353,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.37902,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60547
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          0,
+          0,
+          174,
+          189
+        ],
+        "occupancy": 0.36908,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59326
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          16,
+          0,
+          180,
+          189
+        ],
+        "occupancy": 0.37393,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.55444
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          16,
+          0,
+          170,
+          185
+        ],
+        "occupancy": 0.46645,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          9,
+          0,
+          180,
+          185
+        ],
+        "occupancy": 0.39249,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.68799
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          7,
+          0,
+          179,
+          187
+        ],
+        "occupancy": 0.34929,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57837
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          18,
+          0,
+          184,
+          185
+        ],
+        "occupancy": 0.37068,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5293
+      }
+    ]
+  },
+  {
+    "file": "/workspace/scratch/6e385d968bae/terminal-guardians/source/archon_3d.png",
+    "size": [
+      756,
+      2079
+    ],
+    "grid": [
+      4,
+      11
+    ],
+    "nominal_cell": [
+      189.0,
+      189.0
+    ],
+    "fully_opaque": false,
+    "warning": "Equal-grid assumptions require visual verification.",
+    "cells": [
+      {
+        "row": 0,
+        "col": 0,
+        "action": "standing",
+        "bounds": [
+          0,
+          0,
+          189,
+          189
+        ],
+        "bbox": [
+          14,
+          40,
+          178,
+          189
+        ],
+        "occupancy": 0.45925,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "action": "standing",
+        "bounds": [
+          189,
+          0,
+          378,
+          189
+        ],
+        "bbox": [
+          16,
+          41,
+          179,
+          189
+        ],
+        "occupancy": 0.4496,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57056
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "action": "standing",
+        "bounds": [
+          378,
+          0,
+          567,
+          189
+        ],
+        "bbox": [
+          17,
+          39,
+          179,
+          189
+        ],
+        "occupancy": 0.45435,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56738
+      },
+      {
+        "row": 0,
+        "col": 3,
+        "action": "standing",
+        "bounds": [
+          567,
+          0,
+          756,
+          189
+        ],
+        "bbox": [
+          19,
+          41,
+          177,
+          189
+        ],
+        "occupancy": 0.44019,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57031
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "action": "walking",
+        "bounds": [
+          0,
+          189,
+          189,
+          378
+        ],
+        "bbox": [
+          11,
+          51,
+          179,
+          189
+        ],
+        "occupancy": 0.43204,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "action": "walking",
+        "bounds": [
+          189,
+          189,
+          378,
+          378
+        ],
+        "bbox": [
+          14,
+          52,
+          180,
+          189
+        ],
+        "occupancy": 0.42908,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58301
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "action": "walking",
+        "bounds": [
+          378,
+          189,
+          567,
+          378
+        ],
+        "bbox": [
+          11,
+          52,
+          182,
+          189
+        ],
+        "occupancy": 0.41695,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58374
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "action": "walking",
+        "bounds": [
+          567,
+          189,
+          756,
+          378
+        ],
+        "bbox": [
+          19,
+          54,
+          183,
+          189
+        ],
+        "occupancy": 0.39722,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58276
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "action": "running",
+        "bounds": [
+          0,
+          378,
+          189,
+          567
+        ],
+        "bbox": [
+          12,
+          0,
+          185,
+          185
+        ],
+        "occupancy": 0.38504,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "action": "running",
+        "bounds": [
+          189,
+          378,
+          378,
+          567
+        ],
+        "bbox": [
+          11,
+          0,
+          181,
+          184
+        ],
+        "occupancy": 0.39464,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58691
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "action": "running",
+        "bounds": [
+          378,
+          378,
+          567,
+          567
+        ],
+        "bbox": [
+          9,
+          0,
+          185,
+          163
+        ],
+        "occupancy": 0.38109,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.62549
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "action": "running",
+        "bounds": [
+          567,
+          378,
+          756,
+          567
+        ],
+        "bbox": [
+          16,
+          0,
+          183,
+          181
+        ],
+        "occupancy": 0.36346,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57959
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "action": "jumping",
+        "bounds": [
+          0,
+          567,
+          189,
+          756
+        ],
+        "bbox": [
+          18,
+          93,
+          177,
+          189
+        ],
+        "occupancy": 0.30125,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "action": "jumping",
+        "bounds": [
+          189,
+          567,
+          378,
+          756
+        ],
+        "bbox": [
+          19,
+          61,
+          179,
+          189
+        ],
+        "occupancy": 0.35593,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49829
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "action": "jumping",
+        "bounds": [
+          378,
+          567,
+          567,
+          756
+        ],
+        "bbox": [
+          20,
+          44,
+          178,
+          189
+        ],
+        "occupancy": 0.37143,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.54956
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "action": "jumping",
+        "bounds": [
+          567,
+          567,
+          756,
+          756
+        ],
+        "bbox": [
+          24,
+          26,
+          182,
+          166
+        ],
+        "occupancy": 0.37938,
+        "touches_cell_edge": false,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.59521
+      },
+      {
+        "row": 4,
+        "col": 0,
+        "action": "falling",
+        "bounds": [
+          0,
+          756,
+          189,
+          945
+        ],
+        "bbox": [
+          22,
+          0,
+          175,
+          183
+        ],
+        "occupancy": 0.40906,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "action": "falling",
+        "bounds": [
+          189,
+          756,
+          378,
+          945
+        ],
+        "bbox": [
+          20,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.35296,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61865
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "action": "falling",
+        "bounds": [
+          378,
+          756,
+          567,
+          945
+        ],
+        "bbox": [
+          15,
+          0,
+          177,
+          189
+        ],
+        "occupancy": 0.28605,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49268
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "action": "falling",
+        "bounds": [
+          567,
+          756,
+          756,
+          945
+        ],
+        "bbox": [
+          20,
+          119,
+          182,
+          189
+        ],
+        "occupancy": 0.22413,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.39087
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "action": "death",
+        "bounds": [
+          0,
+          945,
+          189,
+          1134
+        ],
+        "bbox": [
+          10,
+          66,
+          160,
+          189
+        ],
+        "occupancy": 0.36242,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "action": "death",
+        "bounds": [
+          189,
+          945,
+          378,
+          1134
+        ],
+        "bbox": [
+          4,
+          0,
+          164,
+          189
+        ],
+        "occupancy": 0.31858,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.49829
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "action": "death",
+        "bounds": [
+          378,
+          945,
+          567,
+          1134
+        ],
+        "bbox": [
+          2,
+          0,
+          167,
+          189
+        ],
+        "occupancy": 0.32477,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5061
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "action": "death",
+        "bounds": [
+          567,
+          945,
+          756,
+          1134
+        ],
+        "bbox": [
+          18,
+          0,
+          175,
+          189
+        ],
+        "occupancy": 0.2547,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.44409
+      },
+      {
+        "row": 6,
+        "col": 0,
+        "action": "hit",
+        "bounds": [
+          0,
+          1134,
+          189,
+          1323
+        ],
+        "bbox": [
+          10,
+          0,
+          173,
+          189
+        ],
+        "occupancy": 0.37994,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "action": "hit",
+        "bounds": [
+          189,
+          1134,
+          378,
+          1323
+        ],
+        "bbox": [
+          9,
+          0,
+          175,
+          189
+        ],
+        "occupancy": 0.4606,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.66309
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "action": "hit",
+        "bounds": [
+          378,
+          1134,
+          567,
+          1323
+        ],
+        "bbox": [
+          1,
+          0,
+          177,
+          189
+        ],
+        "occupancy": 0.41046,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.68506
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "action": "hit",
+        "bounds": [
+          567,
+          1134,
+          756,
+          1323
+        ],
+        "bbox": [
+          6,
+          0,
+          182,
+          189
+        ],
+        "occupancy": 0.39377,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53003
+      },
+      {
+        "row": 7,
+        "col": 0,
+        "action": "attack_1",
+        "bounds": [
+          0,
+          1323,
+          189,
+          1512
+        ],
+        "bbox": [
+          10,
+          0,
+          175,
+          189
+        ],
+        "occupancy": 0.38966,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 7,
+        "col": 1,
+        "action": "attack_1",
+        "bounds": [
+          189,
+          1323,
+          378,
+          1512
+        ],
+        "bbox": [
+          6,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.40517,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.5896
+      },
+      {
+        "row": 7,
+        "col": 2,
+        "action": "attack_1",
+        "bounds": [
+          378,
+          1323,
+          567,
+          1512
+        ],
+        "bbox": [
+          0,
+          0,
+          187,
+          189
+        ],
+        "occupancy": 0.42238,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.61621
+      },
+      {
+        "row": 7,
+        "col": 3,
+        "action": "attack_1",
+        "bounds": [
+          567,
+          1323,
+          756,
+          1512
+        ],
+        "bbox": [
+          13,
+          0,
+          184,
+          189
+        ],
+        "occupancy": 0.40699,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.58691
+      },
+      {
+        "row": 8,
+        "col": 0,
+        "action": "attack_2",
+        "bounds": [
+          0,
+          1512,
+          189,
+          1701
+        ],
+        "bbox": [
+          13,
+          0,
+          165,
+          189
+        ],
+        "occupancy": 0.43862,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 8,
+        "col": 1,
+        "action": "attack_2",
+        "bounds": [
+          189,
+          1512,
+          378,
+          1701
+        ],
+        "bbox": [
+          10,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.43739,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.69189
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "action": "attack_2",
+        "bounds": [
+          378,
+          1512,
+          567,
+          1701
+        ],
+        "bbox": [
+          0,
+          0,
+          180,
+          189
+        ],
+        "occupancy": 0.43257,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.71362
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "action": "attack_2",
+        "bounds": [
+          567,
+          1512,
+          756,
+          1701
+        ],
+        "bbox": [
+          20,
+          0,
+          179,
+          189
+        ],
+        "occupancy": 0.40822,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.6272
+      },
+      {
+        "row": 9,
+        "col": 0,
+        "action": "attack_3",
+        "bounds": [
+          0,
+          1701,
+          189,
+          1890
+        ],
+        "bbox": [
+          13,
+          0,
+          165,
+          189
+        ],
+        "occupancy": 0.41382,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 9,
+        "col": 1,
+        "action": "attack_3",
+        "bounds": [
+          189,
+          1701,
+          378,
+          1890
+        ],
+        "bbox": [
+          3,
+          0,
+          189,
+          189
+        ],
+        "occupancy": 0.41278,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.62354
+      },
+      {
+        "row": 9,
+        "col": 2,
+        "action": "attack_3",
+        "bounds": [
+          378,
+          1701,
+          567,
+          1890
+        ],
+        "bbox": [
+          0,
+          0,
+          169,
+          189
+        ],
+        "occupancy": 0.39562,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.60693
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "action": "attack_3",
+        "bounds": [
+          567,
+          1701,
+          756,
+          1890
+        ],
+        "bbox": [
+          18,
+          0,
+          178,
+          189
+        ],
+        "occupancy": 0.39097,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.57764
+      },
+      {
+        "row": 10,
+        "col": 0,
+        "action": "flying",
+        "bounds": [
+          0,
+          1890,
+          189,
+          2079
+        ],
+        "bbox": [
+          20,
+          0,
+          172,
+          177
+        ],
+        "occupancy": 0.48025,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": null
+      },
+      {
+        "row": 10,
+        "col": 1,
+        "action": "flying",
+        "bounds": [
+          189,
+          1890,
+          378,
+          2079
+        ],
+        "bbox": [
+          6,
+          0,
+          178,
+          177
+        ],
+        "occupancy": 0.40164,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.67432
+      },
+      {
+        "row": 10,
+        "col": 2,
+        "action": "flying",
+        "bounds": [
+          378,
+          1890,
+          567,
+          2079
+        ],
+        "bbox": [
+          7,
+          0,
+          176,
+          177
+        ],
+        "occupancy": 0.36278,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.56763
+      },
+      {
+        "row": 10,
+        "col": 3,
+        "action": "flying",
+        "bounds": [
+          567,
+          1890,
+          756,
+          2079
+        ],
+        "bbox": [
+          20,
+          0,
+          182,
+          177
+        ],
+        "occupancy": 0.37899,
+        "touches_cell_edge": true,
+        "duplicate_of": null,
+        "changed_fraction_vs_previous": 0.53809
+      }
+    ]
+  }
+]
